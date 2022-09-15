@@ -19,14 +19,19 @@ Deputy Prime Minister,Khalid Raad,Q15126787,2000-03-14,2001-12-13
 Deputy Prime Minister,Mohammad al-Hussein,Q6892556,2001-12-13,2003-09-10
 Deputy Prime Minister,Abdullah al-Dardari,Q4666080,2005,2011-03-29
 Deputy Prime Minister,Walid Muallem,Q1334803,2012-06-23,2020-11-16
-Deputy Prime Minister,Fahd Jassem al-Freij,Q1392054,2012-06-23,
 Deputy Prime Minister,Qadri Jamil,Q2121339,2012-06-23,2013-10-29
 Deputy Prime Minister,Ali Abdullah Ayyoub,Q4724546,2020-08-30,
+Minister of Administrative Development,Salam Safaf,Q98798433,2017-03-29,
 Minister of Agriculture,Adel Safar,Q353713,2003-09-13,2011-04-14
 Minister of Agriculture,Riyad Farid Hijab,Q354642,2011-04-14,2012-08-06
 Minister of Agriculture,Ahmed Al-Qadri,Q98908359,2013-03-01,2020-08-29
+Minister of Agriculture,Mohammed Hassan Qatana,Q98798493,2020-08-30,
+Minister of Communications and Technology,Amr Salem,Q108092707,2006-02-21,2007-12-08
+Minister of Communications and Technology,Iyad Mohammad al-Khatib,Q110093859,2018-11-26,
 Minister of Culture,"Sayyid, Maḥmūd Aḥmad",Q100499032,2003-09-18,2006-02-11
 Minister of Culture,Riad Ismat,Q3430000,2010-10-03,2012-06-23
+Minister of Culture,Lubanah Mshaweh,Q18217778,2012-06-23,2014-08-27
+Minister of Culture,Lubanah Mshaweh,Q18217778,2020-08-30,
 Minister of Defence,Mustafa Tlass al jahesh,Q403707,1972-03-22,2004-05-12
 Minister of Defence,Hasan Turkmani,Q1588608,2004-05-12,2009-06-03
 Minister of Defence,Ali Habib Mahmud,Q369251,2009-06-03,2011-08-08
@@ -34,7 +39,11 @@ Minister of Defence,Dawoud Rajiha,Q456977,2011-08-08,2012-07-18
 Minister of Defence,Fahd Jassem al-Freij,Q1392054,2012-07-18,2018-01-01
 Minister of Defence,Ali Abdullah Ayyoub,Q4724546,2018-01-01,2022-04-28
 Minister of Defence,Ali Mahmoud Abbas,Q111748038,2022-04-28,
+Minister of Economy and Trade,Mohammad Samer al-Khalil,Q60572925,2017-03-29,
 Minister of Education,"Sayyid, Maḥmūd Aḥmad",Q100499032,2000-03-13,2003-09-18
+Minister of Education,Darem Tabbaa,Q98796946,2020-08-30,
+Minister of Electricity,Ghassan al-Zamel,Q98798533,2020-08-30,
+Minister of Endowments and Religious Affairs,Mohammed Abdul Sattar,Q6892847,2007-12-08,
 Minister of Finance,Khalid al-Mahayni,Q113989512,1987,2001
 Minister of Finance,Mohammad al-Atrash,Q6892558,2001-12-13,2003-09-10
 Minister of Finance,Mohammad al-Hussein,Q6892556,2003-09-18,2011-04-14
@@ -45,17 +54,38 @@ Minister of Finance,Kenan Yaghi,Q98807064,2020-08-30,
 Minister of Foreign Affairs,Farouk al-Sharaa,Q713715,1984-03-01,2006-02-21
 Minister of Foreign Affairs,Walid Muallem,Q1334803,2006-02-21,2020-11-16
 Minister of Foreign Affairs,Faisal Mekdad,Q5431067,2020-11-22,
-Minister of Health,محمد إياد الشطي,Q60572712,1987-11-01,2004-10-04
-Minister of Health,محمد ماهر الحسامي,Q113000799,2004,
+Minister of Health,Muhammad Iyad Shatti,Q60572712,1987-11-01,2004-10-04
+Minister of Health,Maher Hammami,Q113000799,2004-10-04,2009-04-23
+Minister of Health,Rida Said,Q113989653,2009-04-23,2011-03-29
 Minister of Health,Wael Nader Al-Halqi,Q713915,2011-04-14,2012-08-26
-Minister of Health,Saad Abdel-Salam al-Nayef,Q16230480,2012-08-25,
+Minister of Health,Saad Abdel-Salam al-Nayef,Q16230480,2012-08-25,2014-08-27
+Minister of Health,Nizar Wahba Yaziji,Q113989669,2014-08-27,2020-08-30
 Minister of Health,Hassan al-Ghabbash,Q98798488,2020-08-30,
+Minister of Higher Education,Bassam Bashir Ibrahim,Q98798423,2018-11-26,
+Minister of Industry,Ziyad Sabbagh,Q98798540,2020-08-30,
+Minister of Information,Boutros Al-Hallaq,Q110158645,2021-08-10,
 Minister of Internal Affairs,Ali Hammoud,Q4724843,2001-12-13,2004-10-07
 Minister of Internal Affairs,Ghazi Kanaan,Q741727,2004-10-07,2005-10-12
 Minister of Internal Affairs,Bassam Abdel Majeed,Q4868003,2006-02-12,2009-04-23
 Minister of Internal Affairs,Said Mohammad Sammour,Q12216136,2009-04-23,2011-04-14
 Minister of Internal Affairs,Mohammad al-Shaar,Q1694182,2011-04-14,2018-11-26
 Minister of Internal Affairs,Mohammad Khaled al-Rahmoun,Q85874875,2018-11-26,
+Minister of Internal Trade and Consumer Protection,Amr Salem,Q108092707,2021-08-10,
+Minister of Justice,Ahmad al-Sayyed,Q98798381,2020-08-30,
+Minister of Local Administration and Environment,Hussein Makhlouf,Q60455444,2016-06-22,
+Minister of Oil and Mineral Reserves,Bassam Tohme,Q98798481,2020-08-30,
+Minister of Presidential Affairs,Mansour Fadlallah Azzam,Q6751840,2009-04-23,2011-03-29
+Minister of Presidential Affairs,Mansour Fadlallah Azzam,Q6751840,2011-04-14,
+Minister of Public Works and Housing,Mansour Fadlallah Azzam,Q6751840,2012-06-23,2013-02-09
+Minister of Public Works and Housing,Suhail Mohammad Abdullatif,Q110158344,2018-11-26,
+Minister of Social Affairs and Labour,Mohamed Seif El-Din,Q109117280,2021-08-10,
+Minister of Tourism,Mohamed Martini,Q98798457,2018-11-26,
+Minister of Transport,Zouhair Khazim,Q98798467,2020-08-30,
+Minister of Water Resources,Tammam Raad,Q98798395,2020-08-30,
+Minister of State for Investment Affairs and Vital Projects,Mohammad Fayez al-Barasha,Q110176262,2020-08-30,
+Minister of State for People's Assembly Affairs,Abdullah Sallum Abdullah,Q107042002,2016-07-03,2020-08-30
+Minister of State for People's Assembly Affairs,Abdullah Sallum Abdullah,Q107042002,2021-08-10,
+Minister of State for Southern Development Affairs,Diala Barakat,Q109026826,2021-08-10,
 Speaker of the Assembly,Abd al-Qadir Qaddura,Q4664575,1999,2002
 Speaker of the Assembly,Muhammad Naji al-Otari,Q336406,2003-03-09,2003-09-18
 Speaker of the Assembly,Mahmoud al-Abrash,Q3277843,2003-10-07,2007-03-08
@@ -74,10 +104,13 @@ Chief of the General Staff,Salim Harba,Q113989405,2019-04-01,2022-04-30
 Chief of the General Staff,Abdul Karim Mahmoud Ibrahim,Q113989404,2022-04-30,
 First Lady,Anisa Makhlouf,Q12180950,1971-03-12,2000-06-10
 First Lady,Asma al-Assad,Q231637,2000-12,
+Deputy Minister of Administrative Development,Salam Safaf,Q98798433,2014-08-27,2017-03-29
 Deputy Minister of Foreign Affairs,Faisal Mekdad,Q5431067,2006-08-01,2020-11-22
+Deputy Minister of Tourism,Mohamed Martini,Q98798457,2014-04,2018-11-26
 Head of General Intelligence,Bahjat Suleiman,Q12199735,1999,2005
 Head of General Intelligence,Tawfiq Younes,Q111995588,2011,2016
 Head of the National Security Bureau,Mohammed Saeed Bekheitan,Q4120447,2000-06-21,2005-06-06
+Governor of Rif Dimashq Governorate,Hussein Makhlouf,Q60455444,2011-10-01,2016-06-22
 ambassador to Austria,Bassam Alsabbagh,Q55104096,2010,2020
 ambassador to Kuwait,Ali Abdul Karim,Q4724539,2004-11-09,2009-03-24
 ambassador to Lebanon,Ali Abdul Karim,Q4724539,2009-03-24,
