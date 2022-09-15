@@ -1,0 +1,40 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Culture (Syria)"
+      ],
+      "stated_as": "Minister of Culture"
+    },
+    "P580": "1976-12-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office established"
+    },
+    "P582": "2000-01-19",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Maha Qanout"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Vice President of Syria"
+      ],
+      "stated_as": "Vice President of Syria"
+    },
+    "P580": "2006-03-23",
+    "P1365": {
+      "links": [
+        "Zuhair Masharqa",
+        "Abdul Halim Khaddam"
+      ],
+      "stated_as": "Zuhair Masharqa Abdul Halim Khaddam"
+    }
+  }
+]

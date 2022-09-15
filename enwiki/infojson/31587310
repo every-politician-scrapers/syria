@@ -1,0 +1,49 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister of Presidential Affairs (Syria)"
+      ],
+      "stated_as": "Minister of Presidential Affairs"
+    },
+    "P580": "2009-04-23",
+    "P582": "2011-03-29",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Himself"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Presidential Affairs (Syria)"
+      ],
+      "stated_as": "Minister of Presidential Affairs"
+    },
+    "P580": "2011-04-14"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Public Works and Housing (Syria)"
+      ],
+      "stated_as": "Minister of Public Works and Housing"
+    },
+    "P580": "2012-06-23",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office Established"
+    },
+    "P582": "2013-02-09",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Hussein Arnous"
+    }
+  }
+]

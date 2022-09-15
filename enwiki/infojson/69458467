@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Communications and Technology (Syria)"
+      ],
+      "stated_as": "Minister of Communications and Technology"
+    },
+    "P580": "2006-02-21",
+    "P1365": {
+      "links": [
+        "Mohammad Bashir al-Monjed"
+      ],
+      "stated_as": "Mohammad Bashir al-Monjed"
+    },
+    "P582": "2007-12-08",
+    "P1366": {
+      "links": [
+        "Emad Abdul-Ghani Sabouni"
+      ],
+      "stated_as": "Emad Abdul-Ghani Sabouni"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Internal Trade and Consumer Protection (Syria)"
+      ],
+      "stated_as": "Minister of Internal Trade and Consumer Protection"
+    },
+    "P580": "2021-08-10",
+    "P1365": {
+      "links": [
+        "Talal Al-Barazi"
+      ],
+      "stated_as": "Talal Al-Barazi"
+    }
+  }
+]
