@@ -1,0 +1,14 @@
+{
+    "cabinet": {
+      "id":     "Q98945563",
+      "start":  "2020-08-30",
+      "end":    "2021-08-10",
+      "parent": "Q267276"
+    },
+    "reference": {
+        "P4656": "https://en.wikipedia.org/wiki/First_Hussein_Arnous_government"
+    },
+    "person_description": {
+        "en": "Syrian politician"
+    }
+}
