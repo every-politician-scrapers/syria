@@ -1,18 +1,63 @@
 position,person,personID,start,end
 President,Hafez al-Assad,Q118725,1971-03-12,2000-06-10
+President,Abdul Halim Khaddam,Q307237,2000-06-10,2000-07-17
 President,Bashar al-Assad,Q44329,2000-07-17,
 Vice President,Abdul Halim Khaddam,Q307237,1984-03-11,2005-02-09
+Vice President,Zuhair Masharqa,Q8075029,1984-03-11,2005-02-21
+Vice President,Farouk al-Sharaa,Q713715,2006-02-21,2014-07-19
+Vice President,Najah al-Attar,Q686595,2006-03-23,
 Prime Minister,Mahmoud Zuabi,Q1884964,1987-11-01,2000-03-07
 Prime Minister,Muhammad Mustafa Mero,Q403471,2000-03-07,2003-09-10
+Prime Minister,Muhammad Naji al-Otari,Q336406,2003-09-10,2011-04-14
+Prime Minister,Adel Safar,Q353713,2011-04-14,2012-06-23
 Prime Minister,Riyad Farid Hijab,Q354642,2012-06-23,2012-08-06
+Prime Minister,Omar Ibrahim Ghalawanji,Q918978,2012-08-06,2012-08-09
+Prime Minister,Wael Nader Al-Halqi,Q713915,2012-08-09,2016-07-03
 Prime Minister,Imad Khamis,Q6001983,2016-07-13,2020-06-11
 Prime Minister,Hussein Arnous,Q60455401,2020-06-11,
+Deputy Prime Minister,Khalid Raad,Q15126787,2000-03-14,2001-12-13
+Deputy Prime Minister,Mohammad al-Hussein,Q6892556,2001-12-13,2003-09-10
+Deputy Prime Minister,Abdullah al-Dardari,Q4666080,2005,2011-03-29
+Deputy Prime Minister,Walid Muallem,Q1334803,2012-06-23,2020-11-16
+Deputy Prime Minister,Qadri Jamil,Q2121339,2012-06-23,2013-10-29
+Deputy Prime Minister,Ali Abdullah Ayyoub,Q4724546,2020-08-30,
+Minister of Agriculture,Riyad Farid Hijab,Q354642,2011-04-14,2012-08-06
 Minister of Agriculture,Ahmed Al-Qadri,Q98908359,2013-03-01,2020-08-29
 Minister of Culture,"Sayyid, Maḥmūd Aḥmad",Q100499032,2003-09-18,2006-02-11
 Minister of Culture,Riad Ismat,Q3430000,2010-10-03,2012-06-23
+Minister of Defence,Mustafa Tlass al jahesh,Q403707,1972-03-22,2004-05-12
+Minister of Defence,Hasan Turkmani,Q1588608,2004-05-12,2009-06-03
+Minister of Defence,Ali Habib Mahmud,Q369251,2009-06-03,2011-08-08
+Minister of Defence,Dawoud Rajiha,Q456977,2011-08-08,2012-07-18
+Minister of Defence,Fahd Jassem al-Freij,Q1392054,2012-07-18,2018-01-01
+Minister of Defence,Ali Abdullah Ayyoub,Q4724546,2018-01-01,2022-04-28
+Minister of Defence,Ali Mahmoud Abbas,Q111748038,2022-04-28,
 Minister of Education,"Sayyid, Maḥmūd Aḥmad",Q100499032,2000-03-13,2003-09-18
+Minister of Finance,Khalid al-Mahayni,Q113989512,1987,2001
+Minister of Finance,Mohammad al-Atrash,Q6892558,2001-12-13,2003-09-10
+Minister of Finance,Mohammad al-Hussein,Q6892556,2003-09-18,2011-04-14
+Minister of Finance,Mohammad al Jililati,Q6892565,2011-04-14,2013-02-09
+Minister of Finance,Ismael Ismael,Q113989511,2014,2016
+Minister of Finance,Maamoun Hamdan,Q113989513,2016,2020
+Minister of Finance,Kenan Yaghi,Q98807064,2020-08-30,
 Minister of Foreign Affairs,Walid Muallem,Q1334803,2006-02-21,2020-11-16
 Minister of Foreign Affairs,Faisal Mekdad,Q5431067,2020-11-22,
+Speaker of the Assembly,Abd al-Qadir Qaddura,Q4664575,1999,2002
+Speaker of the Assembly,Muhammad Naji al-Otari,Q336406,2003-03-09,2003-09-18
+Speaker of the Assembly,Mahmoud al-Abrash,Q3277843,2003-10-07,2007-03-08
+Speaker of the Assembly,Mahmoud al-Abrash,Q3277843,2007-05-07,2012-05-07
+Speaker of the Assembly,Mohammad Jihad al-Laham,Q1942655,2012-05-24,2016-05-02
+Speaker of the Assembly,Hadiya Khalaf Abbas,Q24572906,2016-06-06,2017-07-20
+Speaker of the Assembly,Hammouda Sabbagh,Q41229317,2017-09-28,2020
+Speaker of the Assembly,Hammouda Sabbagh,Q41229317,2020,
+Chief of the General Staff,Ali Aslan,Q2836110,1998-07-08,2002-01-23
+Chief of the General Staff,Hasan Turkmani,Q1588608,2002-01-23,2004-05-12
+Chief of the General Staff,Ali Habib Mahmud,Q369251,2004-05-12,2009-06-03
+Chief of the General Staff,Dawoud Rajiha,Q456977,2009-06-03,2011-08-08
+Chief of the General Staff,Fahd Jassem al-Freij,Q1392054,2011-08-08,2012-07-18
+Chief of the General Staff,Ali Abdullah Ayyoub,Q4724546,2012-07-18,2018-01-01
+Chief of the General Staff,Salim Harba,Q113989405,2019-04-01,2022-04-30
+Chief of the General Staff,Abdul Karim Mahmoud Ibrahim,Q113989404,2022-04-30,
 First Lady,Anisa Makhlouf,Q12180950,1971-03-12,2000-06-10
 First Lady,Asma al-Assad,Q231637,2000-12,
 ambassador to Kuwait,Ali Abdul Karim,Q4724539,2004-11-09,2009-03-24
