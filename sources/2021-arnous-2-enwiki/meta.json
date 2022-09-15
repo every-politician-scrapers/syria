@@ -1,0 +1,14 @@
+{
+    "cabinet": {
+      "id":     "Q108803115",
+      "start":  "2021-08-10",
+      "parent": "Q267276"
+    },
+    "reference": {
+        "P4656": "https://en.wikipedia.org/wiki/Second_Hussein_Arnous_government"
+    },
+    "current_only": "true",
+    "person_description": {
+        "en": "Syrian politician"
+    }
+}
