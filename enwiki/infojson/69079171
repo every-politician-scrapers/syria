@@ -1,0 +1,27 @@
+[
+  {
+    "office": {
+      "links": [
+        "Political Security Directorate"
+      ],
+      "stated_as": "Director of Political Security Directorate"
+    },
+    "P580": "2017",
+    "P582": "2018-11-26"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Interior (Syria)"
+      ],
+      "stated_as": "Minister of the Interior"
+    },
+    "P580": "2018-11-26",
+    "P1365": {
+      "links": [
+        "Mohammad al-Shaar"
+      ],
+      "stated_as": "Mohammad al-Shaar"
+    }
+  }
+]

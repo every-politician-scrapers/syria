@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Culture (Syria)"
+      ],
+      "stated_as": "Minister of Culture"
+    },
+    "P580": "2012-06-23",
+    "P1365": {
+      "links": [
+        "Riad Ismat"
+      ],
+      "stated_as": "Riad Ismat"
+    },
+    "P582": "2014-08-27",
+    "P1366": {
+      "links": [
+        "Issam Khalil"
+      ],
+      "stated_as": "Issam Khalil"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Culture (Syria)"
+      ],
+      "stated_as": "Minister of Culture"
+    },
+    "P580": "2020-08-30",
+    "P1365": {
+      "links": [
+        "Muhammad al-Ahmad"
+      ],
+      "stated_as": "Muhammad al-Ahmad"
+    }
+  }
+]
