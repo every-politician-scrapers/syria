@@ -1,0 +1,280 @@
+{
+  "title": "Mohammad Khaled al-Rahmoun",
+  "pageID": 69079171,
+  "categories": [
+    "1957 births",
+    "Living people",
+    "Syrian ministers of interior",
+    "People of the Syrian civil war",
+    "People from Idlib Governorate",
+    "Syrian generals",
+    "Syrian Sunni Muslims",
+    "Arab Socialist Ba'ath Party – Syria Region politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mohammad Khaled al-Rahmoun (محمد خالد الرحمون, born 1957) is a former military commander, the current Syrian Minister of the Interior.",
+              "links": [
+                {
+                  "text": "Minister of the Interior",
+                  "type": "internal",
+                  "page": "Ministry of Interior (Syria)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Mohammad Khaled al-Rahmoun"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Syrian politician",
+          "template": "short description"
+        },
+        {
+          "birth_year": "1957",
+          "template": "birth year and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "HE",
+            "links": [
+              {
+                "text": "HE",
+                "type": "internal",
+                "page": "Excellency"
+              }
+            ]
+          },
+          "name": {
+            "text": "Mohammad Khaled al-Rahmoun"
+          },
+          "office": {
+            "text": "Minister of the Interior",
+            "links": [
+              {
+                "text": "Minister of the Interior",
+                "type": "internal",
+                "page": "Ministry of Interior (Syria)"
+              }
+            ]
+          },
+          "president": {
+            "text": "Bashar al Assad",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bashar al Assad"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Imad Khamis Hussein Arnous",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Imad Khamis"
+              },
+              {
+                "type": "internal",
+                "page": "Hussein Arnous"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "26 November 2018"
+          },
+          "predecessor": {
+            "text": "Mohammad al-Shaar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mohammad al-Shaar"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Director of Political Security Directorate",
+            "links": [
+              {
+                "text": "Director of Political Security Directorate",
+                "type": "internal",
+                "page": "Political Security Directorate"
+              }
+            ]
+          },
+          "president2": {
+            "text": "Bashar al-Assad"
+          },
+          "term_start2": {
+            "text": "2017",
+            "number": 2017
+          },
+          "term_end2": {
+            "text": "26 November 2018"
+          },
+          "party": {
+            "text": "Syrian Regional Branch of the Arab Socialist Ba'ath Party",
+            "links": [
+              {
+                "text": "Syrian Regional Branch",
+                "type": "internal",
+                "page": "Arab Socialist Ba'ath Party – Syria Region"
+              },
+              {
+                "text": "Arab Socialist Ba'ath Party",
+                "type": "internal",
+                "page": "Ba'ath Party (Syrian-dominated faction)"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "1957 (age 65)"
+          },
+          "birth_place": {
+            "text": "Khan Shaykhun, Idlib Governorate, Syrian Republic",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Khan Shaykhun"
+              },
+              {
+                "type": "internal",
+                "page": "Idlib Governorate"
+              },
+              {
+                "text": "Syrian Republic",
+                "type": "internal",
+                "page": "Second Syrian Republic"
+              }
+            ]
+          },
+          "rank": {
+            "text": "Major General"
+          },
+          "native_name": {
+            "text": "محمد خالد الرحمون"
+          },
+          "native_name_lang": {
+            "text": "ar"
+          }
+        }
+      ],
+      "references": [
+        {
+          "author": "Prime Minister's Office",
+          "url": "https://sana.sy/en/?page_id=1900",
+          "title": "Prime Minister's Office – Syrian Arab News Agency",
+          "publisher": "Sana.sy",
+          "accessdate": "2021-10-21",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://syriamoi.gov.sy/new/index.php?req=552&cat=23",
+          "title": "الوزراء الذين تتالوا على الوزارة",
+          "publisher": "Ministry of Interior",
+          "access-date": "21 October 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://sana.sy/en/?p=245221",
+          "date": "2021-08-14",
+          "title": "Members of the new Cabinet, chaired by Eng. Hussein Arnous, sworn in before President Bashar al-Assad",
+          "access-date": "2021-10-21",
+          "website": "SANA",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://sana.sy/en/?p=228494",
+          "title": "Al-Rahmoun discusses with Iraqi Minister of migration situation of refugees in both countries",
+          "access-date": "22 October 2021",
+          "date": "2 April 2021",
+          "website": "SANA",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Cabinet of Syria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cabinet of Syria"
+              }
+            ]
+          },
+          {
+            "text": "Law enforcement in Syria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Law enforcement in Syria"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Mohammad al-Shaar",
+          "template": "s-bef"
+        },
+        {
+          "title": "Interior Minister",
+          "years": "2018",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "syriainterioreministers"
+        },
+        {
+          "template": "syria-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "title": "Mohammad Fayez al-Barasha",
+  "pageID": 69538935,
+  "categories": [
+    "Living people",
+    "1955 births",
+    "Politicians from Damascus",
+    "Syrian communists",
+    "21st-century Syrian politicians",
+    "Government ministers of Syria"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mohammad Fayez al-Barasha (born 1955) is a Syrian politician from the Syrian Communist Party.",
+              "links": [
+                {
+                  "text": "Syrian Communist Party",
+                  "type": "internal",
+                  "page": "Syrian Communist Party (Bakdash)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Mohammad Fayez al-Barasha"
+                ]
+              }
+            },
+            {
+              "text": "Since 2021, he has served in the Second Hussein Arnous government as Minister of State for Investment Affairs and Vital Projects.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Second Hussein Arnous government"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Syrian politician",
+          "template": "short description"
+        },
+        {
+          "birth_year": "1955",
+          "template": "birth year and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "HE",
+            "links": [
+              {
+                "text": "HE",
+                "type": "internal",
+                "page": "Excellency"
+              }
+            ]
+          },
+          "name": {
+            "text": "Mohammad Fayez al-Barasha محمد فايز البراشا"
+          },
+          "birth_date": {
+            "text": "1955 (age 67)"
+          },
+          "office": {
+            "text": "Minister of State for Investment Affairs and Vital Projects"
+          },
+          "term_start": {
+            "text": "30 August 2020"
+          },
+          "president": {
+            "text": "Bashar al-Assad",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bashar al-Assad"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Hussein Arnous",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hussein Arnous"
+              }
+            ]
+          },
+          "birth_place": {
+            "text": "Damascus, \nDamascus Governorate, Second Syrian Republic",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Damascus"
+              },
+              {
+                "type": "internal",
+                "page": "Damascus Governorate"
+              },
+              {
+                "type": "internal",
+                "page": "Second Syrian Republic"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Syrian",
+            "links": [
+              {
+                "text": "Syrian",
+                "type": "internal",
+                "page": "Syrians"
+              }
+            ]
+          },
+          "party": {
+            "text": "Syrian Communist Party",
+            "links": [
+              {
+                "text": "Syrian Communist Party",
+                "type": "internal",
+                "page": "Syrian Communist Party (Bakdash)"
+              }
+            ]
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          },
+          "residence": {
+            "text": "Damascus"
+          },
+          "profession": {
+            "text": "Politician, Civil servant",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              },
+              {
+                "type": "internal",
+                "page": "Civil servant"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "2021-08-11",
+          "title": "Assad issues Decree on Forming the New Syrian Government",
+          "url": "https://syrianobserver.com/news/68729/assad-issues-decree-on-forming-the-new-syrian-government.html",
+          "access-date": "2021-12-18",
+          "website": "The Syrian Observer",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Prime Minister's Office",
+          "language": "en-US",
+          "work": "Syrian Arab News Agency",
+          "url": "https://sana.sy/en/?page_id=1900",
+          "access-date": "2021-12-18",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He is married with two children."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "syria-politician-stub"
+        }
+      ]
+    }
+  ]
+}

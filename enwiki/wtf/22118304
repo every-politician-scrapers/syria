@@ -1,0 +1,140 @@
+{
+  "title": "Ali Abdul Karim",
+  "pageID": 22118304,
+  "categories": [
+    "1953 births",
+    "Living people",
+    "Ambassadors of Syria to Kuwait",
+    "Ambassadors of Syria to Lebanon",
+    "Damascus University alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ali Abdul Karim (علي عبد الكريم) (born 1953) is a Syrian diplomat.",
+              "links": [
+                {
+                  "text": "Syrian",
+                  "type": "internal",
+                  "page": "Syria"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ali Abdul Karim"
+                ]
+              }
+            },
+            {
+              "text": "He is the first Syrian ambassador to Lebanon.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lebanon"
+                }
+              ]
+            },
+            {
+              "text": "Before that he served as the ambassador to Kuwait and as the general manager of the Syrian Arab News Agency (SANA), and official Syrian Television.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kuwait"
+                },
+                {
+                  "type": "internal",
+                  "page": "Syrian Arab News Agency"
+                },
+                {
+                  "type": "internal",
+                  "page": "Syrian Television"
+                }
+              ]
+            },
+            {
+              "text": "He holds a B.A. in Arabic Literature from the University of Damascus.",
+              "links": [
+                {
+                  "text": "B.A.",
+                  "type": "internal",
+                  "page": "Bachelor of Arts"
+                },
+                {
+                  "type": "internal",
+                  "page": "Arabic Literature"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Damascus"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "birth_year": "1953",
+          "template": "birth year and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Ali Abdul Karim"
+          },
+          "birth_name": {
+            "text": "علي عبد الكريم"
+          },
+          "birth_date": {
+            "text": "1953 (age 69)"
+          },
+          "alma_mater": {
+            "text": "University of Damascus",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Damascus"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "diplomat"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://syria-news.com/readnews.php?sy_seq=92456",
+          "title": "Syria-news : الرئيس اللبناني يوافق على اعتماد علي عبد الكريم سفيرا سوريا في لبنان",
+          "access-date": "2009-03-24",
+          "archive-url": "https://web.archive.org/web/20090326024643/http://www.syria-news.com/readnews.php?sy_seq=92456",
+          "archive-date": "2009-03-26",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "syria-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

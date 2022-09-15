@@ -1,0 +1,215 @@
+{
+  "title": "Ali Mahmoud Abbas",
+  "pageID": 70652586,
+  "categories": [
+    "Living people",
+    "Syrian generals",
+    "Syrian ministers of defense",
+    "People from Rif Dimashq Governorate",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ali Mahmoud Abbas (علي محمود عباس) (born in Efra) is a Syrian politician, senior Syrian Arab Army lieutenant general and the 14th Minister of Defense of the Syrian Arab Republic, succeeding Ali Abdullah Ayyoub.",
+              "links": [
+                {
+                  "text": "Efra",
+                  "type": "internal",
+                  "page": "Efra, Syria"
+                },
+                {
+                  "type": "internal",
+                  "page": "Syrian Arab Army"
+                },
+                {
+                  "text": "lieutenant general",
+                  "type": "internal",
+                  "page": "lieutenant general"
+                },
+                {
+                  "text": "Minister of Defense",
+                  "type": "internal",
+                  "page": "Ministry of Defense (Syria)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Syrian Arab Republic"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ali Abdullah Ayyoub"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ali Mahmoud Abbas"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "list": [
+            "Syria"
+          ],
+          "template": "army"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Ali Mahmoud Abbas"
+          },
+          "native_name": {
+            "text": "علي محمود عباس"
+          },
+          "native_name_lang": {
+            "text": "ar"
+          },
+          "office": {
+            "text": "14th Minister of Defense",
+            "links": [
+              {
+                "text": "Minister of Defense",
+                "type": "internal",
+                "page": "Ministry of Defense (Syria)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "28 April 2022"
+          },
+          "president": {
+            "text": "Bashar al-Assad",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bashar al-Assad"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Hussein Arnous",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hussein Arnous"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Ali Abdullah Ayyoub",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ali Abdullah Ayyoub"
+              }
+            ]
+          },
+          "birth_place": {
+            "text": "Efra, Rif Dimashq, Syria",
+            "links": [
+              {
+                "text": "Efra",
+                "type": "internal",
+                "page": "Efra, Syria"
+              },
+              {
+                "text": "Rif Dimashq",
+                "type": "internal",
+                "page": "Rif Dimashq Governorate"
+              }
+            ]
+          },
+          "party": {
+            "text": "Ba'ath Party",
+            "links": [
+              {
+                "text": "Ba'ath Party",
+                "type": "internal",
+                "page": "Arab Socialist Ba'ath Party – Syria Region"
+              }
+            ]
+          },
+          "allegiance": {
+            "text": "Syria",
+            "links": [
+              {
+                "text": "Syria",
+                "type": "internal",
+                "page": "undefined"
+              }
+            ]
+          },
+          "rank": {
+            "text": "Syria Army - OF08.svg Lieutenant general",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lieutenant general"
+              }
+            ]
+          },
+          "unit": {
+            "text": "Armored Military College"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://snacksyrian.com/وزير-الدفاع-الجديد-ينحدر-من-ريف-دمشق-من/",
+          "title": "وزير الدفاع الجديد ينحدر من ريف دمشق من هو اللواء علي عباس؟",
+          "date": "28 April 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://english.alarabiya.net/News/middle-east/2022/04/28/Syria-names-new-defense-minister-Presidency",
+          "title": "Syria names new defense minister: Presidency",
+          "date": "28 April 2022",
+          "website": "Al Arabiya English",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Reuters",
+          "date": "2022-04-28",
+          "title": "Syria names new defence minister -presidency",
+          "language": "en",
+          "work": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/syria-names-new-defence-minister-presidency-2022-04-28/",
+          "access-date": "2022-05-05",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "syriadefensemins"
+        },
+        {
+          "template": "syria-politician-stub"
+        }
+      ]
+    }
+  ]
+}

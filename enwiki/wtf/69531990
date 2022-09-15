@@ -1,0 +1,242 @@
+{
+  "title": "Boutros Al-Hallaq",
+  "pageID": 69531990,
+  "categories": [
+    "Living people",
+    "1966 births",
+    "Syrian ministers of information",
+    "21st-century Syrian politicians",
+    "Cairo University alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Boutros Al-Hallaq (بطرس الحلاق) (born 1966) is a Syrian politician.",
+              "formatting": {
+                "bold": [
+                  "Boutros Al-Hallaq"
+                ]
+              }
+            },
+            {
+              "text": "He currently serves as Information Minister in the Cabinet of Syria.",
+              "links": [
+                {
+                  "text": "Information Minister",
+                  "type": "internal",
+                  "page": "Ministry of Information (Syria)"
+                },
+                {
+                  "text": "Cabinet of Syria",
+                  "type": "internal",
+                  "page": "Second Hussein Arnous government"
+                }
+              ]
+            },
+            {
+              "text": "He was sanctioned by the European Union in November 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "European Union"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He worked as Vice president of scientific affairs at Damascus university in 2021."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Dean of the Media college between 2013-2017."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Syrian politician",
+          "template": "short description"
+        },
+        {
+          "birth_year": "1966",
+          "template": "birth year and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "HE",
+            "links": [
+              {
+                "text": "HE",
+                "type": "internal",
+                "page": "Excellency"
+              }
+            ]
+          },
+          "name": {
+            "text": "Boutros Al-Hallaq بطرس الحلاق"
+          },
+          "birth_date": {
+            "text": "1966 (age 56)"
+          },
+          "office": {
+            "text": "Minister of Information",
+            "links": [
+              {
+                "text": "Minister of Information",
+                "type": "internal",
+                "page": "Ministry of Information (Syria)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "10 August 2021"
+          },
+          "president": {
+            "text": "Bashar al-Assad",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bashar al-Assad"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Hussein Arnous",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hussein Arnous"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Imad Abullah Sarah",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Imad Abullah Sarah"
+              }
+            ]
+          },
+          "birth_place": {
+            "text": "Yabroud,\nRif Dimashq Governorate, Syria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yabroud"
+              },
+              {
+                "type": "internal",
+                "page": "Rif Dimashq Governorate"
+              },
+              {
+                "type": "internal",
+                "page": "Syria"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Syrian",
+            "links": [
+              {
+                "text": "Syrian",
+                "type": "internal",
+                "page": "Syrians"
+              }
+            ]
+          },
+          "residence": {
+            "text": "Damascus"
+          },
+          "alma_mater": {
+            "text": "Cairo University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cairo University"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Politician, Scientist, Dean",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              },
+              {
+                "type": "internal",
+                "page": "Scientist"
+              },
+              {
+                "text": "Dean",
+                "type": "internal",
+                "page": "Dean (education)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "2021-08-11",
+          "title": "Syrian President orders formation of new govt",
+          "url": "https://www.thestatesman.com/world/syrian-president-orders-formation-new-govt-1502993192.html",
+          "access-date": "2021-12-17",
+          "website": "The Statesman",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-11-16",
+          "title": "EU designates 4 Syrian government ministers",
+          "url": "https://www.europeansanctions.com/2021/11/eu-designates-4-syrian-government-ministers/",
+          "access-date": "2021-12-17",
+          "website": "EU Sanctions",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "author": "Prime Minister's Office",
+          "url": "https://sana.sy/en/?page_id=1900",
+          "title": "Prime Minister's Office – Syrian Arab News Agency",
+          "publisher": "Sana.sy",
+          "accessdate": "2021-12-21",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "syria-politician-stub"
+        }
+      ]
+    }
+  ]
+}

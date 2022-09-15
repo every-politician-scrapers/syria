@@ -1,0 +1,210 @@
+{
+  "title": "Diala Barakat",
+  "pageID": 69082384,
+  "categories": [
+    "1980 births",
+    "Living people",
+    "Syrian ministers of state",
+    "People of the Syrian civil war",
+    "People from Homs Governorate",
+    "Syrian Sunni Muslims",
+    "Syrian Social Nationalist Party politicians",
+    "21st-century Syrian women politicians",
+    "21st-century Syrian politicians",
+    "Women government ministers of Syria"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Diala Barakat (ديالا بركات) (born 1980) is a member of the Cabinet of Syria in the Second Hussein Arnous government as Minister of State for Southern Development Affairs.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cabinet of Syria"
+                },
+                {
+                  "type": "internal",
+                  "page": "Second Hussein Arnous government"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Diala Barakat"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Syrian politician",
+          "template": "short description"
+        },
+        {
+          "birth_year": "1980",
+          "template": "birth year and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Diala Barakat ديالا بركات"
+          },
+          "office": {
+            "text": "Minister of State for Southern Development Affairs"
+          },
+          "term_start": {
+            "text": "10 August 2021"
+          },
+          "president": {
+            "text": "Bashar al-Assad",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bashar al-Assad"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Hussein Arnous",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hussein Arnous"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Mohammad Samir Haddad",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mohammad Samir Haddad"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "1980 (age 42)"
+          },
+          "birth_place": {
+            "text": "Homs, Homs Governorate, Syria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Homs"
+              },
+              {
+                "type": "internal",
+                "page": "Homs Governorate"
+              },
+              {
+                "type": "internal",
+                "page": "Syria"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Syrian",
+            "links": [
+              {
+                "text": "Syrian",
+                "type": "internal",
+                "page": "Syrians"
+              }
+            ]
+          },
+          "party": {
+            "text": "Syrian Social Nationalist Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Syrian Social Nationalist Party"
+              }
+            ]
+          },
+          "residence": {
+            "text": "Damascus",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Damascus"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Roma Tre University, University of Damascus",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Roma Tre University"
+              },
+              {
+                "type": "internal",
+                "page": "University of Damascus"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Doctor of Classical antiquities"
+          },
+          "profession": {
+            "text": "Politician, Professor",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "author": "Prime Minister's Office",
+          "url": "https://sana.sy/en/?page_id=1900",
+          "title": "Prime Minister's Office – Syrian Arab News Agency",
+          "publisher": "Sana.sy",
+          "accessdate": "2021-10-21",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://syrianobserver.com/news/68729/assad-issues-decree-on-forming-the-new-syrian-government.html",
+          "author": "Syria Times",
+          "title": "Assad issues Decree on Forming the New Syrian Government",
+          "publisher": "Syrianobserver.com",
+          "date": "2021-08-11",
+          "accessdate": "2021-10-21",
+          "quote": "Two other new members do not hold a portfolio, including Abdallah Abdallah, a candidate who challenged Assad in the presidential elections, and Diala Barakat.",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-08-11",
+          "author": "Syrian Times",
+          "title": "Assad issues Decree on Forming the New Syrian Government",
+          "url": "https://syrianobserver.com/news/68729/assad-issues-decree-on-forming-the-new-syrian-government.html",
+          "access-date": "2021-12-18",
+          "website": "The Syrian Observer",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

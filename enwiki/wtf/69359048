@@ -1,0 +1,242 @@
+{
+  "title": "Ahmad al-Sayyed",
+  "pageID": 69359048,
+  "categories": [
+    "Living people",
+    "21st-century Syrian politicians",
+    "Syrian ministers of justice",
+    "Arab Socialist Ba'ath Party – Syria Region politicians",
+    "Syrian jurists",
+    "1965 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ahmad al-Sayyed (احمد السيد) is a Syrian politician.",
+              "formatting": {
+                "bold": [
+                  "Ahmad al-Sayyed"
+                ]
+              }
+            },
+            {
+              "text": "As minister of justice, he is a member of the Cabinet of Syria.",
+              "links": [
+                {
+                  "text": "minister of justice",
+                  "type": "internal",
+                  "page": "Ministry of Justice (Syria)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cabinet of Syria"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Syrian politician",
+          "template": "short description"
+        },
+        {
+          "birth_year": "1965",
+          "template": "birth year and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "HE",
+            "links": [
+              {
+                "text": "HE",
+                "type": "internal",
+                "page": "Excellency"
+              }
+            ]
+          },
+          "name": {
+            "text": "Ahmad al-Sayyed احمد السيد"
+          },
+          "office": {
+            "text": "Minister of Justice",
+            "links": [
+              {
+                "text": "Minister of Justice",
+                "type": "internal",
+                "page": "Ministry of Justice (Syria)"
+              }
+            ]
+          },
+          "president": {
+            "text": "Bashar al Assad",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bashar al Assad"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Hussein Arnous",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hussein Arnous"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "30 August 2020"
+          },
+          "predecessor": {
+            "text": "Hisham Al Shaar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hisham Al Shaar"
+              }
+            ]
+          },
+          "party": {
+            "text": "Independent",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "1965 (age 57)"
+          },
+          "birth_place": {
+            "text": "Quneitra, Quneitra Governorate, Syria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Quneitra"
+              },
+              {
+                "type": "internal",
+                "page": "Quneitra Governorate"
+              },
+              {
+                "type": "internal",
+                "page": "Syria"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Damascus",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Damascus"
+              }
+            ]
+          },
+          "children": {
+            "text": "4",
+            "number": 4
+          },
+          "residence": {
+            "text": "Damascus",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Damascus"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "author": "Prime Minister's Office",
+          "url": "https://sana.sy/en/?page_id=1900",
+          "title": "Prime Minister's Office – Syrian Arab News Agency",
+          "publisher": "Sana.sy",
+          "accessdate": "2021-10-21",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He was appointed minister of justice in the First Hussein Arnous government in 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "First Hussein Arnous government"
+                }
+              ]
+            },
+            {
+              "text": "In 2021 he was reappointed to the role in the Second Hussein Arnous government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Second Hussein Arnous government"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He has carried out an agenda of judicial reform."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2020-12-03",
+          "title": "Judges prosecuted for ruling property ownership transfer based on forged power of attorneys in Syria",
+          "url": "https://english.enabbaladi.net/archives/2020/12/judges-prosecuted-for-ruling-property-ownership-transfer-based-on-forged-power-of-attorneys-in-syria/",
+          "access-date": "2021-11-25",
+          "website": "Enab Baladi",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-01-23",
+          "title": "Two judges removed: is Syrian regime reforming judiciary?",
+          "url": "https://english.enabbaladi.net/archives/2021/01/two-judges-removed-is-syrian-regime-reforming-judiciary/",
+          "access-date": "2021-11-25",
+          "website": "Enab Baladi",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

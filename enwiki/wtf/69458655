@@ -1,0 +1,251 @@
+{
+  "title": "Zouhair Khazim",
+  "pageID": 69458655,
+  "categories": [
+    "Living people",
+    "1960 births",
+    "21st-century Syrian politicians",
+    "Transport ministers of Syria",
+    "Arab Socialist Ba'ath Party – Syria Region politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Zouhair Khazim (زهير خزيم) (born 1960) is a Syrian politician who has been minister of transport since 2020.",
+              "links": [
+                {
+                  "text": "minister of transport",
+                  "type": "internal",
+                  "page": "Ministry of Transport (Syria)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Zouhair Khazim"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Syrian politician",
+          "template": "short description"
+        },
+        {
+          "birth_year": "1960",
+          "template": "birth year and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "HE",
+            "links": [
+              {
+                "text": "HE",
+                "type": "internal",
+                "page": "Excellency"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Politician, Civil servant",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              },
+              {
+                "type": "internal",
+                "page": "Civil servant"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Damascus University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Damascus University"
+              }
+            ]
+          },
+          "residence": {
+            "text": "Damascus",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Damascus"
+              }
+            ]
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          },
+          "nationality": {
+            "text": "Syrian",
+            "links": [
+              {
+                "text": "Syrian",
+                "type": "internal",
+                "page": "Syrians"
+              }
+            ]
+          },
+          "birth_place": {
+            "text": "Latakia, Latakia Governorate, United Arab Republic",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Latakia"
+              },
+              {
+                "type": "internal",
+                "page": "Latakia Governorate"
+              },
+              {
+                "type": "internal",
+                "page": "United Arab Republic"
+              }
+            ]
+          },
+          "name": {
+            "text": "Zouhair Khazim\nزهير خزيم"
+          },
+          "birth_date": {
+            "text": "1960 (age 62)"
+          },
+          "predecessor": {
+            "text": "Ali Hammoud",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ali Hammoud"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Hussein Arnous",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hussein Arnous"
+              }
+            ]
+          },
+          "president": {
+            "text": "Bashar al-Assad",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bashar al-Assad"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "30 August 2020"
+          },
+          "office": {
+            "text": "Minister of Transport",
+            "links": [
+              {
+                "text": "Minister of Transport",
+                "type": "internal",
+                "page": "Ministry of Transport (Syria)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "2020-08-31",
+          "title": "وزير النقل الجديد المهندس زهير مصطفى خزيم",
+          "url": "http://event-sy.net/news-45493.html",
+          "access-date": "2021-12-07",
+          "archive-url": "https://web.archive.org/web/20200831183428/http://event-sy.net/news-45493.html",
+          "archive-date": "31 August 2020",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "author": "Prime Minister's Office",
+          "url": "https://sana.sy/en/?page_id=1900",
+          "title": "Prime Minister's Office",
+          "newspaper": "Syrian Arab News Agency",
+          "accessdate": "2021-12-08",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He is married and has three children."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "First Hussein Arnous government",
+            "links": [
+              {
+                "type": "internal",
+                "page": "First Hussein Arnous government"
+              }
+            ]
+          },
+          {
+            "text": "Second Hussein Arnous government",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Second Hussein Arnous government"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "syria-politician-stub"
+        }
+      ]
+    }
+  ]
+}

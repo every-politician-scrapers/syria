@@ -1,0 +1,272 @@
+{
+  "title": "Iyad Mohammad al-Khatib",
+  "pageID": 69508603,
+  "categories": [
+    "Living people",
+    "Syrian ministers of communication",
+    "21st-century Syrian politicians",
+    "1974 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Iyad Mohammad al-Khatib (اياد محمد الخطيب) (born 1974) is a Syrian politician.",
+              "formatting": {
+                "bold": [
+                  "Iyad Mohammad al-Khatib"
+                ]
+              }
+            },
+            {
+              "text": "He has been Communications and Technology Minister since 26 November 2018.",
+              "links": [
+                {
+                  "text": "Communications and Technology Minister",
+                  "type": "internal",
+                  "page": "Ministry of Communications and Technology (Syria)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Syrian politician",
+          "template": "short description"
+        },
+        {
+          "birth_year": "1974",
+          "template": "birth year and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "HE",
+            "links": [
+              {
+                "text": "HE",
+                "type": "internal",
+                "page": "Excellency"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "1974 (age 48)"
+          },
+          "office": {
+            "text": "Minister of Communications and Technology",
+            "links": [
+              {
+                "text": "Minister of Communications and Technology",
+                "type": "internal",
+                "page": "Ministry of Communications and Technology (Syria)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "26 November 2018"
+          },
+          "president": {
+            "text": "Bashar al-Assad",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bashar al-Assad"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Imad Khamis Hussein Arnous",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Imad Khamis"
+              },
+              {
+                "type": "internal",
+                "page": "Hussein Arnous"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Ali al-Dhafir",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ali al-Dhafir"
+              }
+            ]
+          },
+          "name": {
+            "text": "Iyad Mohammad al-Khatib اياد محمد الخطيب"
+          },
+          "birth_place": {
+            "text": "Damascus, \nDamascus Governorate, Syria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Damascus"
+              },
+              {
+                "type": "internal",
+                "page": "Damascus Governorate"
+              },
+              {
+                "type": "internal",
+                "page": "Syria"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Syrian",
+            "links": [
+              {
+                "text": "Syrian",
+                "type": "internal",
+                "page": "Syria"
+              }
+            ]
+          },
+          "residence": {
+            "text": "Damascus"
+          },
+          "alma_mater": {
+            "text": "Damascus University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Damascus University"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Politician, Civil servant",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              },
+              {
+                "type": "internal",
+                "page": "Civil servant"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "author": "Prime Minister's Office",
+          "url": "https://sana.sy/en/?page_id=1900",
+          "title": "Prime Minister's Office – Syrian Arab News Agency",
+          "publisher": "Sana.sy",
+          "accessdate": "2021-12-21",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Held numerous administrative positions including Director of Damascus Communications Branch, Head of Technical Department at the Syrian Telecommunications Establishment and Executive Managing Director of the Syrian Telecom.",
+              "links": [
+                {
+                  "text": "Syrian Telecommunications Establishment",
+                  "type": "internal",
+                  "page": "Syrian Telecom"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2018, he was sanctioned by the European Union.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "European Union"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "author": "Prime Minister's Office",
+          "url": "https://sana.sy/en/?page_id=1900",
+          "title": "Prime Minister's Office – Syrian Arab News Agency",
+          "publisher": "Sana.sy",
+          "accessdate": "2021-12-21",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "AFP",
+          "date": "2019-03-04",
+          "title": "Seven Syrian ministers added to EU sanctions list",
+          "work": "Business Standard India",
+          "url": "https://www.business-standard.com/article/pti-stories/seven-syrian-ministers-added-to-eu-sanctions-list-119030400938_1.html",
+          "access-date": "2021-12-14",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2019-03-04",
+          "title": "EU Adds Seven Ministers of Syrian Government to Travel Sanctions List",
+          "url": "https://www.schengenvisainfo.com/news/eu-adds-seven-ministers-of-syrian-government-to-travel-sanctions-list/",
+          "access-date": "2021-12-14",
+          "website": "SchengenVisaInfo.com",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Second Hussein Arnous government",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Second Hussein Arnous government"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}
