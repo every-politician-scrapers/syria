@@ -1,8 +1,14 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
-Q648464,President of Syria,Q858,Q858,Q26212282,Q14786546,1946-04-17,,Q112072879,,President of Syria
-Q26212282,Vice President of Syria,Q858,Q858,,,,,,,Vice President of Syria
-Q7243302,Prime Minister of Syria,Q858,Q858,,Q1507266,1946-04-17,,,,Prime Minister of Syria
+Q107293006,Chief of the General Staff,,,,,,,,,Chief of the General Staff (Syria)
+Q113989765,Deputy Minister of Administrative Development of Syria,Q858,Q858,,,,,,,
+Q113989577,Deputy Minister of Foreign Affairs of Syria,Q858,Q858,,,,,,,
+Q113989761,Deputy Minister of Tourism of Syria,Q858,Q858,,,,,,,
 Q105821094,Deputy Prime Minister of Syria,,,,,,,,,Deputy Prime Minister of Syria
+Q65089203,First Lady of Syria,Q858,,,,1946-04-17,,,,First Lady of Syria
+Q113989738,Governor of Rif Dimashq Governorate,,Q232399,,,,,,,
+Q111903398,Head of Syrian General Intelligence Branch 251,Q858,,,,,,,,
+Q111201637,Head of the National Security Bureau,Q858,Q858,,,,,,,
+Q20489786,Member of the People's Council of Syria,Q858,Q858,,,,,,,
 Q113989763,Minister of Administrative Development (Syria),,Q858,,,,,,,
 Q55593592,Minister of Agriculture of Syria,Q858,Q858,,,,,,,
 Q113989711,Minister of Communications and Technology,,Q858,,,,,,,
@@ -28,11 +34,25 @@ Q113989724,Minister of Oil and Mineral Reserves (Syria),,Q858,,,,,,,
 Q113989769,Minister of Presidential Affairs (Syria),,Q858,,,,,,,
 Q113989733,Minister of Public Works and Housing (Syria),,Q858,,,,,,,
 Q113989729,Minister of Social Affairs and Labour (Syria),,Q858,,,,,,,
-Q104007004,Minister of Tourism of Syria,Q858,Q858,,,1972,,,,
-Q113989715,Minister of Transport,,Q858,,,,,,,
-Q113989719,Minister of Water Resources,,Q858,,,,,,,
 Q113989777,Minister of State for Investment Affairs and Vital Projects of Syria,Q858,Q858,,,,,,,
 Q113989778,Minister of State for People's Assembly Affairs,Q858,Q858,,,,,,,
 Q113989782,Minister of State for Southern Development Affairs,Q858,Q858,,,,,,,
+Q104007004,Minister of Tourism of Syria,Q858,Q858,,,1972,,,,
+Q113989715,Minister of Transport,,Q858,,,,,,,
+Q113989719,Minister of Water Resources,,Q858,,,,,,,
+Q7169247,Permanent Representative of Syria to the United Nations,,,,,1945,,,,Permanent Representative of Syria to the United Nations
+Q102309536,Permanent Representative of the Syrian Arab Republic to OPCW,Q858,,,,,,,,
+Q648464,President of Syria,Q858,Q858,Q26212282,Q14786546,1946-04-17,,Q112072879,,President of Syria
+Q7243302,Prime Minister of Syria,Q858,Q858,,Q1507266,1946-04-17,,,,Prime Minister of Syria
 Q11795049,Speaker of the Parliament of Syria,,,,,1919-12-11,,,,Speaker of the People's Assembly of Syria
-Q107293006,Chief of the General Staff,,,,,,,,,Chief of the General Staff (Syria)
+Q26212282,Vice President of Syria,Q858,Q858,,,,,,,Vice President of Syria
+Q29971465,ambassador of Syria,Q858,,,,,,,,
+Q102245065,ambassador of Syria to Austria,,,,,,,,,
+Q1861669,ambassador of Syria to China,Q858,,,,,,,,
+Q113989570,ambassador of Syria to Italy,,,,,,,,,
+Q100333029,ambassador of Syria to Lebanon,Q858,,,,,,,,
+Q100336464,ambassador of Syria to Lebanon,Q858,,,,,,,,
+Q113989535,ambassador of Syria to North Korea,,,,,,,,,
+Q30504464,ambassador of Syria to Russia,Q858,,,Q24846796,,,,,
+Q96924023,ambassador of Syria to the United Kingdom,Q858,,,,,,,,
+Q1861672,ambassador of Syria to the United States,Q858,,,Q29971490,,,,,List of ambassadors of Syria to the United States
