@@ -1,0 +1,4 @@
+who,position,positionLabel,startDate,endDate,replaces,replacesLabel,replacedBy,replacedByLabel,posidx
+33335984,Ministry of Foreign Affairs and Expatriates (Syria),Minister of Foreign Affairs and Expatriates,2020-11-22,,Q1334803,Walid Muallem,,,0
+33335984,Ministry of Foreign Affairs and Expatriates (Syria),Deputy Minister of Foreign Affairs,2006-08-01,2020-11-22,Q1334803,Walid Muallem,Q4866775,Bashar Jaafari,1
+33335984,Q7169247,Permanent Representative of Syria to the United Nations,2003,2006-07-31,Mikhail Wehbe,Mikhail Wehbe,Q4866775,Bashar Jaafari,2
