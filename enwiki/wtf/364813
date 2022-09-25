@@ -9634,13 +9634,21 @@
       ],
       "templates": [
         {
-          "template": "commons category"
-        },
-        {
-          "template": "wikiquote"
-        },
-        {
-          "template": "wikinews category"
+          "template": "sister project links",
+          "links": {
+            "wiktionary": "no",
+            "commons": "yes",
+            "wikinews": "yes",
+            "wikiquote": "yes",
+            "wikisource": "no",
+            "wikibooks": "no",
+            "wikivoyage": "no",
+            "wikiversity": "no",
+            "wikidata": "yes",
+            "wikispecies": "no",
+            "meta": "no",
+            "mediawiki": "no"
+          }
         },
         {
           "list": [
@@ -9678,7 +9686,7 @@
           "template": "s-off"
         },
         {
-          "before": "Hafez al-Assad Abdul Halim Khaddam, Acting",
+          "before": "Hafez al-Assad",
           "template": "s-bef"
         },
         {
