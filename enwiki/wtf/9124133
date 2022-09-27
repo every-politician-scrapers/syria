@@ -118,7 +118,7 @@
             "text": "23 March 2006"
           },
           "predecessor": {
-            "text": "Zuhair Masharqa Abdul Halim Khaddam",
+            "text": "Zuhair Masharqa Abdul Halim Khaddam Farouk al-Sharaa",
             "links": [
               {
                 "type": "internal",
@@ -127,6 +127,10 @@
               {
                 "type": "internal",
                 "page": "Abdul Halim Khaddam"
+              },
+              {
+                "type": "internal",
+                "page": "Farouk al-Sharaa"
               }
             ]
           },
@@ -222,6 +226,12 @@
         }
       ],
       "references": [
+        {
+          "url": "https://english.alarabiya.net/News/middle-east/2014/07/20/Syria-s-Assad-reappoints-woman-VP-but-mum-on-Sharaa",
+          "title": "Syria’s Assad reappoints woman VP but mum on Sharaa",
+          "template": "citation",
+          "type": "web"
+        },
         {
           "title": "Syria's First Female Vice President Hailed as Progress for Women",
           "url": "http://archive.arabnews.com/?page=4&section=0&article=79682&d=24&m=3&y=2006",
