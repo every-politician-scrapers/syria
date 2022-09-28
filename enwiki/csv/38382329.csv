@@ -1,0 +1,5 @@
+who,position,positionLabel,startDate,endDate,replaces,replacesLabel,replacedBy,replacedByLabel,posidx
+38382329,Q105821094,Deputy Prime Minister,2020-08-30,,,,,,0
+38382329,Ministry of Defense (Syria),Minister of Defense,2018-01-01,2022-04-28,Q1392054,Fahd Jassem al-Freij,Q111748038,Ali Mahmoud Abbas,1
+38382329,Q107293006,Chief of the General Staff of the Army and the Armed Forces,2012-07-18,2018-01-01,Q1392054,Fahd Jassem al-Freij,,Salim Harba,2
+38382329,Q107293006,Deputy Chief of the General Staff of the Army and the Armed Forces,Unknown,2012-07-18,,,,Bassam Najm el-Din Antakiali,3
