@@ -2,11 +2,11 @@
   "title": "Ali Mahmoud Abbas",
   "pageID": 70652586,
   "categories": [
+    "1964 births",
     "Living people",
-    "Syrian generals",
-    "Syrian ministers of defense",
     "People from Rif Dimashq Governorate",
-    "Year of birth missing (living people)"
+    "Syrian generals",
+    "Syrian ministers of defense"
   ],
   "sections": [
     {
@@ -16,7 +16,7 @@
         {
           "sentences": [
             {
-              "text": "Ali Mahmoud Abbas (علي محمود عباس) (born in Efra) is a Syrian politician, senior Syrian Arab Army lieutenant general and the 14th Minister of Defense of the Syrian Arab Republic, succeeding Ali Abdullah Ayyoub.",
+              "text": "Ali Mahmoud Abbas (علي محمود عباس) (born 2 November 1964 in Efra) is a Syrian politician, senior Syrian Arab Army lieutenant general and the 14th Minister of Defense of the Syrian Arab Republic, succeeding Ali Abdullah Ayyoub.",
               "links": [
                 {
                   "text": "Efra",
@@ -59,6 +59,13 @@
         {
           "date": "April 2022",
           "template": "use dmy dates"
+        },
+        {
+          "year": "1964",
+          "month": "11",
+          "day": "02",
+          "df": "y",
+          "template": "birth date and age"
         },
         {
           "list": [
@@ -117,6 +124,9 @@
                 "page": "Ali Abdullah Ayyoub"
               }
             ]
+          },
+          "birth_date": {
+            "text": "November 2, 1964"
           },
           "birth_place": {
             "text": "Efra, Rif Dimashq, Syria",
