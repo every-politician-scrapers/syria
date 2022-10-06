@@ -224,16 +224,8 @@
             "text": "August 11, 1975"
           },
           "birth_place": {
-            "text": "Cromwell Hospital, South Kensington, London, England, United Kingdom",
+            "text": "London, England",
             "links": [
-              {
-                "type": "internal",
-                "page": "Cromwell Hospital"
-              },
-              {
-                "type": "internal",
-                "page": "South Kensington"
-              },
               {
                 "type": "internal",
                 "page": "London"
