@@ -2981,7 +2981,7 @@
       ]
     },
     {
-      "title": "Since Russian intervention in September 2015",
+      "title": "Since Russian intervention 2015–present",
       "depth": 2,
       "paragraphs": [
         {
@@ -3469,12 +3469,12 @@
       ]
     },
     {
-      "title": "Policies",
-      "depth": 0
+      "title": "Domestic policies",
+      "depth": 1
     },
     {
       "title": "Economy",
-      "depth": 1,
+      "depth": 2,
       "paragraphs": [
         {
           "sentences": [
@@ -3720,7 +3720,7 @@
     },
     {
       "title": "Human rights",
-      "depth": 1,
+      "depth": 2,
       "paragraphs": [
         {
           "sentences": [
@@ -4264,6 +4264,14 @@
           ]
         }
       ],
+      "templates": [
+        {
+          "list": [
+            "Human rights violations during the Syrian civil war"
+          ],
+          "template": "more"
+        }
+      ],
       "references": [
         {
           "url": "http://www.bloombergview.com/articles/2014-12-15/us-says-europeans-tortured-by-assads-death-machine",
@@ -4462,7 +4470,7 @@
       ]
     },
     {
-      "title": "Foreign relations",
+      "title": "Foreign policies",
       "depth": 1,
       "paragraphs": [
         {
@@ -4474,21 +4482,15 @@
           "file": "File:The_President,_Smt._Pratibha_Devisingh_Patil_meeting_the_President_of_Syrian_Arab_Republic,_Dr._Bashar_al_Assad,_at_the_Presidential_Palace,_at_Damascus_in_Syria_on_November_27,_2010.jpg",
           "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/The_President%2C_Smt._Pratibha_Devisingh_Patil_meeting_the_President_of_Syrian_Arab_Republic%2C_Dr._Bashar_al_Assad%2C_at_the_Presidential_Palace%2C_at_Damascus_in_Syria_on_November_27%2C_2010.jpg?width=300",
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/The_President%2C_Smt._Pratibha_Devisingh_Patil_meeting_the_President_of_Syrian_Arab_Republic%2C_Dr._Bashar_al_Assad%2C_at_the_Presidential_Palace%2C_at_Damascus_in_Syria_on_November_27%2C_2010.jpg",
-          "caption": "Assad with Indian President Pratibha Patil in Damascus in 2010",
-          "links": []
-        },
-        {
-          "file": "File:Dmitry_Medvedev_in_Syria_10_May_2010-5.jpeg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Dmitry_Medvedev_in_Syria_10_May_2010-5.jpeg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Dmitry_Medvedev_in_Syria_10_May_2010-5.jpeg",
-          "caption": "Assad with Russian President Dmitry Medvedev in 2010",
+          "caption": "Assad with Indian President Pratibha Patil in 2010",
           "links": []
         }
       ],
       "templates": [
         {
           "list": [
-            "Foreign relations of Syria"
+            "Foreign relations of Syria",
+            "List of international presidential trips made by Bashar al-Assad"
           ],
           "template": "see also"
         }
@@ -5444,7 +5446,7 @@
       ]
     },
     {
-      "title": "U.S.",
+      "title": "United States",
       "depth": 2,
       "paragraphs": [
         {
