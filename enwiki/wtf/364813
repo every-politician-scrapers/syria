@@ -8413,12 +8413,7 @@
         {
           "sentences": [
             {
-              "text": "Revoked and returned distinctions are marked with red.",
-              "formatting": {
-                "bold": [
-                  "red"
-                ]
-              }
+              "text": "Revoked and returned distinctions."
             }
           ]
         }
@@ -8993,6 +8988,14 @@
           }
         ]
       ],
+      "templates": [
+        {
+          "list": [
+            "#f99"
+          ],
+          "template": "color box"
+        }
+      ],
       "references": [
         {
           "url": "https://www.nytimes.com/2018/04/20/world/europe/assad-france-legion-of-honor.html",
@@ -9197,6 +9200,15 @@
               {
                 "type": "internal",
                 "page": "List of international presidential trips made by Bashar al-Assad"
+              }
+            ]
+          },
+          {
+            "text": "Presidency of Hafez al-Assad",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Presidency of Hafez al-Assad"
               }
             ]
           }
