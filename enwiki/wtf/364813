@@ -9617,9 +9617,9 @@
         },
         {
           "url": "https://www.youtube.com/watch?v=E9gyTXO_xIg",
-          "archive-url": "https://ghostarchive.org/varchive/youtube/20211221/E9gyTXO_xIg",
-          "archive-date": "2021-12-21",
-          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20161118094013/https://www.youtube.com/watch?v=E9gyTXO_xIg",
+          "archive-date": "18 November 2016",
+          "url-status": "bot: unknown",
           "first": "Charlie",
           "authorlink": "Charlie Rose",
           "last": "Rose",
@@ -9627,6 +9627,7 @@
           "publisher": "PBS",
           "date": "9 September 2013",
           "ref": "none",
+          "access-date": "5 November 2016",
           "template": "citation",
           "type": "cite web"
         }
