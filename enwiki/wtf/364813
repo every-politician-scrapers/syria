@@ -3470,7 +3470,15 @@
     },
     {
       "title": "Domestic policies",
-      "depth": 1
+      "depth": 1,
+      "templates": [
+        {
+          "list": [
+            "Politics of Syria"
+          ],
+          "template": "see also"
+        }
+      ]
     },
     {
       "title": "Economy",
@@ -4497,7 +4505,7 @@
       ]
     },
     {
-      "title": "Iraq War and insurgency",
+      "title": "Iraq",
       "depth": 2,
       "paragraphs": [
         {
@@ -4910,7 +4918,7 @@
       ]
     },
     {
-      "title": "Involvement in Lebanon",
+      "title": "Lebanon",
       "depth": 2,
       "paragraphs": [
         {
