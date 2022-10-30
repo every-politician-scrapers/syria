@@ -36,8 +36,12 @@
       ],
       "templates": [
         {
-          "date": "August 2022",
-          "template": "cleanup bare urls"
+          "description": "Syrian politician (born 1960)",
+          "template": "short description"
+        },
+        {
+          "date": "October 2022",
+          "template": "use dmy dates"
         },
         {
           "birth_year": "1960",
@@ -280,14 +284,17 @@
       ],
       "references": [
         {
+          "title": "Assad Keeps Calm Image in Face of Biggest Threat to Rule",
+          "access-date": "29 October 2022",
+          "url": "https://m.naharnet.com/stories/en/95904-assad-keeps-calm-image-in-face-of-biggest-threat-to-rule",
+          "work": "Naharnet",
+          "agency": "Agence France Presse",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "news"
         },
         {
-          "url": "http://www.egov.sy/employee/en/52/0/Minister+of+Presidential+Affairs+Mansour+Fadellulah+Azam.html",
           "title": "Minister of Presidential Affairs Mansour Fadellulah Azam",
+          "url": "http://www.egov.sy/employee/en/52/0/Minister+of+Presidential+Affairs+Mansour+Fadellulah+Azam.html",
           "template": "citation",
           "type": "web"
         },
