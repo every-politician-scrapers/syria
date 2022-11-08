@@ -1462,6 +1462,15 @@
             },
             {
               "text": "However, he died in a car accident in 1994 and Bashar was recalled to the Syrian Army shortly thereafter."
+            },
+            {
+              "text": "State propoganda soon began elevating Bashar's public imagery as \"the hope of the masses\" to prepare him as the next patriarch in charge of Syria, to continue the rule of Assad dynasty.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Assad dynasty"
+                }
+              ]
             }
           ]
         },
@@ -1728,6 +1737,19 @@
           "language": "en",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "last": "Wedeen",
+          "first": "Lisa",
+          "title": "Ambiguities of Domination: Politics, Rhetoric and Symbols in Contemporary Syria",
+          "publisher": "University of Chicago Press",
+          "year": "2015",
+          "isbn": "978-0-226-33337-3",
+          "location": "Chicago, USA",
+          "pages": "28, 39, 60-61",
+          "doi": "10.7208/chicago/978022345536.001.0001",
+          "template": "citation",
+          "type": "book"
         },
         {
           "last": "Gresh",
