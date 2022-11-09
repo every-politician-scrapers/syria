@@ -281,7 +281,7 @@
         {
           "sentences": [
             {
-              "text": "Previously, he held the position of Deputy Minister of Tourism between April 2014 and November 2018."
+              "text": "Previously, he held the position of deputy minister of tourism between April 2014 and November 2018."
             }
           ]
         },
@@ -300,7 +300,7 @@
                   "page": "Saudi Arabia–Syria relations"
                 },
                 {
-                  "text": "Syrian crisis in 2011",
+                  "text": "Syrian crisis",
                   "type": "internal",
                   "page": "Syrian Civil War"
                 }
@@ -323,7 +323,7 @@
           "url": "https://www.annaharar.com/arabic/politcs/arab-world/gulf/25052021071745579",
           "title": "وزير سوري في السّعودية للمشاركة في",
           "website": "annaharar.com",
-          "language": "en",
+          "language": "ar",
           "access-date": "22 December 2021",
           "template": "citation",
           "type": "news"
@@ -334,6 +334,32 @@
           "access-date": "2021-05-25",
           "website": "alsouria.net",
           "language": "ar",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Sanctions",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In March 2019 Martini included in the European Union's sanctions against Syria due to the violent repression of civilians in the country since 2011."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Seven Syrian ministers added to EU sanctions list",
+          "url": "https://english.alarabiya.net/News/middle-east/2019/03/04/Seven-Syrian-ministers-added-to-EU-sanctions-list-",
+          "access-date": "8 November 2022",
+          "work": "Al Arabiya",
+          "agency": "Agence France-Presse",
+          "date": "4 March 2019",
+          "location": "Brussels",
           "template": "citation",
           "type": "news"
         }
