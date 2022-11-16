@@ -83,19 +83,47 @@
               ]
             },
             {
-              "text": "His father, Hafez al-Assad, was the president of Syria before him, serving from 1971 to 2000.",
+              "text": "His father and predecessor was General Hafez al-Assad, whose presidency between 1971 to 2000; marked the transfiguration of Syria from a republican state into a dynastic military dictatorship tightly controlled by Alawite-dominated armed forces and Mukhabarat (secret services) loyal to the Assad family.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Hafez al-Assad"
                 },
                 {
-                  "text": "serving from 1971 to 2000",
+                  "text": "1971 to 2000",
                   "type": "internal",
                   "page": "Presidency of Hafez al-Assad"
+                },
+                {
+                  "text": "republican state",
+                  "type": "internal",
+                  "page": "Republic"
+                },
+                {
+                  "text": "military dictatorship",
+                  "type": "internal",
+                  "page": "military dictatorship"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mukhabarat"
+                },
+                {
+                  "text": "Assad family",
+                  "type": "internal",
+                  "page": "Al-Assad family"
                 }
-              ]
-            },
+              ],
+              "formatting": {
+                "italic": [
+                  "Mukhabarat"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "Born and raised in Damascus, Bashar al-Assad graduated from the medical school of Damascus University in 1988 and began to work as a doctor in the Syrian Army.",
               "links": [
@@ -151,16 +179,12 @@
                   "page": "Syrian occupation of Lebanon"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
-              "text": "Political scientists have characterised the Assad family's rule of Syria as a personalist dictatorship.",
+              "text": "Political scientists have described the Assad dynastic rule of Syria as a personalist dictatorship.",
               "links": [
                 {
-                  "text": "Assad",
+                  "text": "Assad dynastic",
                   "type": "internal",
                   "page": "Al-Assad family"
                 },
@@ -172,6 +196,13 @@
                 }
               ]
             },
+            {
+              "text": "Bashar inherited the bureaucratic structure and personality cult nurtured by Hafez al-Assad; although he lacked the charisma and loyalty received by his father; which led to rising discontent against his rule."
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "On 17 July 2000, Assad became president, succeeding his father, who died in office on 10 June 2000.",
               "links": [
@@ -236,7 +267,7 @@
               "text": "Throughout his leadership, human rights groups have characterized Syria's human rights situation as poor."
             },
             {
-              "text": "The Assad government describes itself as secular, while some political scientists write that his regime exploits sectarian tensions in the country.",
+              "text": "The Assad government describes itself as secular, while various political scientists write that his regime exploits sectarian tensions in the country.",
               "links": [
                 {
                   "text": "secular",
@@ -255,7 +286,27 @@
         {
           "sentences": [
             {
-              "text": "Once seen by many states as a potential reformer, the United States (U.S.), the European Union (EU), and the majority of the Arab League called for Assad's resignation from the presidency in 2011 after he ordered a violent crackdown on Arab Spring protesters, which led to the Syrian civil war.",
+              "text": "Initially lauded by the Western press as a potential reformer, Bashar al-Assad's economic liberalisation programme worsened inequalities and increased the centralisation of social and political leverage within the pro-regime Damascene elite; alienating the Syrian rural population, urban working classes and people from once-traditional Ba'ath strongholds.",
+              "links": [
+                {
+                  "text": "economic liberalisation",
+                  "type": "internal",
+                  "page": "Economic liberalization"
+                }
+              ]
+            },
+            {
+              "text": "Since he lacked the respect commanded by his father, many members of the Old Guard resigned or were purged; replacing the inner-circle with staunch loyalists from Alawite clans.",
+              "links": [
+                {
+                  "text": "Alawite",
+                  "type": "internal",
+                  "page": "Alawites"
+                }
+              ]
+            },
+            {
+              "text": "The United States (U.S.), the European Union (EU), and the majority of the Arab League called for Assad's resignation from the presidency in 2011 after he ordered a violent crackdown on Arab Spring protesters, which led to the Syrian civil war.",
               "links": [
                 {
                   "text": "United States (U.S.)",
@@ -752,6 +803,31 @@
       ],
       "references": [
         {
+          "last": "Allam, Saber",
+          "first": "Ashraf, Salah",
+          "title": "Assad's Survival: The Symbol Of Resisting The Arab Spring",
+          "publisher": "Lamar",
+          "year": "2019",
+          "isbn": "978-977-85412-3-6",
+          "location": "16 Faisal City, Almontaza, Alexandria, Egypt",
+          "pages": "26-27",
+          "chapter": "The domestic structure of the regime",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "last": "Cole",
+          "first": "Robert",
+          "title": "The Encyclopaedia of Propoganda",
+          "publisher": "Routledge",
+          "year": "2022",
+          "isbn": "9781317471981",
+          "pages": "760-761",
+          "chapter": "Syria",
+          "template": "citation",
+          "type": "book"
+        },
+        {
           "url": "https://www.cambridge.org/us/academic/subjects/politics-international-relations/comparative-politics/politics-authoritarian-rule",
           "title": "The Politics of Authoritarian Rule",
           "last": "Svolik",
@@ -828,6 +904,19 @@
           "pages": "233",
           "doi": "10.1017/9781316336182",
           "s2cid": "226899229",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "last": "Allam, Saber",
+          "first": "Ashraf, Salah",
+          "title": "Assad's Survival: The Symbol Of Resisting The Arab Spring",
+          "publisher": "Lamar",
+          "year": "2019",
+          "isbn": "978-977-85412-3-6",
+          "location": "16 Faisal City, Almontaza, Alexandria, Egypt",
+          "pages": "27-30",
+          "chapter": "The domestic structure of the regime",
           "template": "citation",
           "type": "book"
         },
@@ -958,6 +1047,19 @@
           "url-status": "dead",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "last": "Allam, Saber",
+          "first": "Ashraf, Salah",
+          "title": "Assad's Survival: The Symbol Of Resisting The Arab Spring",
+          "publisher": "Lamar",
+          "year": "2019",
+          "isbn": "978-977-85412-3-6",
+          "location": "16 Faisal City, Almontaza, Alexandria, Egypt",
+          "pages": "27-30",
+          "chapter": "The domestic structure of the regime",
+          "template": "citation",
+          "type": "book"
         },
         {
           "author": "Bassem Mroue",
@@ -4042,6 +4144,16 @@
         {
           "sentences": [
             {
+              "text": "Numerous politicians, dissidents, authors and journalists have nicknamed Assad as the \"butcher\" of Syria for his war-crimes, anti-Sunni sectarian mass-killings and ethnic cleansing campaigns.",
+              "links": [
+                {
+                  "text": "anti-Sunni",
+                  "type": "internal",
+                  "page": "Anti-Sunnism"
+                }
+              ]
+            },
+            {
               "text": "The Federal Bureau of Investigation has stated that at least 10 European citizens were tortured by the Assad government while detained during the Syrian civil war, potentially leaving Assad open to prosecution by individual European countries for war crimes.",
               "links": [
                 {
@@ -4117,6 +4229,26 @@
                   "page": "Jeremy Bowen"
                 }
               ]
+            },
+            {
+              "text": "As soon as demonstrations arose in 2011-2012, Bashar al-Assad opted to implement the \"Samson option\", the characteristic approach of the Ba'athist regime since the era of Hafez al-Assad; wherein protests were violently suppressed and demonstrators were shot and fired at directly by the armed forces.",
+              "links": [
+                {
+                  "text": "Ba'athist",
+                  "type": "internal",
+                  "page": "Syrian Ba'athism"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hafez al-Assad"
+                }
+              ]
+            },
+            {
+              "text": "However, unlike Hafez; Bashar had even less loyalty and was politically fragile, exacerbated by alienation of the majority of the population."
+            },
+            {
+              "text": "As a result, Bashar chose to crack down on dissent far more comprehensively and harshly than his father; and a mere allegation of collaboration was reason enough to get assassinated."
             }
           ]
         },
@@ -4132,6 +4264,20 @@
                 {
                   "type": "internal",
                   "page": "The Fares Center for Eastern Mediterranean Studies"
+                }
+              ]
+            },
+            {
+              "text": "Contrasting the policies of Hafiz al-Assad and that of his son Bashar, former Syrian vice-president and dissident Abdul Halim Khaddam states: \"The Father had a mind and the Son has a loss of reason. How could the army use its force and the security appartus with all its might to destroy Syria because of a protest against the mistakes of one of your security officials. The father would act differently. Father Hafiz hit Hama after he encircled it, warned and then hit Hama after a long siege... But his son is different. On the subject of Daraa, Bashar gave instructions to open fire on the demonstrators.\"",
+              "links": [
+                {
+                  "text": "Hafiz al-Assad",
+                  "type": "internal",
+                  "page": "Hafez al-Assad"
+                },
+                {
+                  "type": "internal",
+                  "page": "Abdul Halim Khaddam"
                 }
               ]
             }
@@ -4305,6 +4451,43 @@
       ],
       "references": [
         {
+          "last": "Holland",
+          "first": "Jack",
+          "title": "Selling War and Peace: Syria and the Anglosphere",
+          "publisher": "Cambridge University Press",
+          "year": "2020",
+          "isbn": "9781108489249",
+          "location": "New York, NY 10016, USA",
+          "pages": "211",
+          "chapter": "7: Proxy War",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "last": "Dagher",
+          "first": "Sam",
+          "title": "Assad Or We Burn the Country: How One Family's Lust for Power Destroyed Syria",
+          "publisher": "Little, Brown and Company",
+          "year": "2019",
+          "isbn": "978-0-316-55670-5",
+          "location": "1290 Avenue of the Americas, New York, NY 10104",
+          "chapter": "15: Don't Stay with the Butcher",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "last": "Tibi",
+          "first": "Bassam",
+          "url": "https://www.google.co.in/books/edition/The_Sharia_State/uXAdAAAAQBAJ?hl=en&gbpv=1",
+          "title": "The Shari’a State: Arab Spring and Democratization",
+          "publisher": "Routledge",
+          "year": "2013",
+          "isbn": "978-0-415-66216-1",
+          "location": "711 Third Avenue, New York, NY 10017",
+          "template": "citation",
+          "type": "book"
+        },
+        {
           "url": "http://www.bloombergview.com/articles/2014-12-15/us-says-europeans-tortured-by-assads-death-machine",
           "title": "U.S. says Europeans killed by Assad's death machine",
           "work": "Chicago Tribune",
@@ -4370,6 +4553,19 @@
           "type": "news"
         },
         {
+          "last": "Allam, Saber",
+          "first": "Ashraf, Salah",
+          "title": "Assad's Survival: The Symbol Of Resisting The Arab Spring",
+          "publisher": "Lamar",
+          "year": "2019",
+          "isbn": "978-977-85412-3-6",
+          "location": "16 Faisal City, Almontaza, Alexandria, Egypt",
+          "pages": "29-38",
+          "chapter": "The domestic structure of the regime",
+          "template": "citation",
+          "type": "book"
+        },
+        {
           "url": "https://www.dailystar.com.lb/News/Middle-East/2015/Jun-11/301349-iran-spends-billions-to-prop-up-assad.ashx",
           "title": "Iran spends billions to prop up Assad",
           "publisher": "TDA",
@@ -4389,6 +4585,19 @@
           "access-date": "21 June 2015",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "last": "Allam, Saber",
+          "first": "Ashraf, Salah",
+          "title": "Assad's Survival: The Symbol Of Resisting The Arab Spring",
+          "publisher": "Lamar",
+          "year": "2019",
+          "isbn": "978-977-85412-3-6",
+          "location": "16 Faisal City, Almontaza, Alexandria, Egypt",
+          "pages": "33-34",
+          "chapter": "The domestic structure of the regime",
+          "template": "citation",
+          "type": "book"
         },
         {
           "url": "https://news.yahoo.com/france-opens-war-crimes-inquiry-against-assad-regime-222026549.html",
