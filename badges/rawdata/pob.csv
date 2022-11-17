@@ -1,0 +1,102 @@
+item,itemLabel,rank,pob,pobLabel,hasCountry,hasAdmin,hasref,refitem,exurl,wmurl,wmproj
+Q100499032,"Sayyid, Maḥmūd Aḥmad",NormalRank,Q1002557,Safita,true,true,true,false,false,false,true
+Q107042002,Abdullah Sallum Abdullah,NormalRank,Q277674,Azaz,true,true,true,false,false,true,true
+Q108092707,Amr Salem,NormalRank,Q3766,Damascus,true,true,false,,,,
+Q109026826,Diala Barakat,NormalRank,Q131301,Homs,true,true,true,false,false,true,true
+Q109117280,Mohamed Seif El-Din,NormalRank,Q3766,Damascus,true,true,false,,,,
+Q110093859,Iyad Mohammad al-Khatib,NormalRank,Q3766,Damascus,true,true,true,false,false,true,true
+Q110158344,Suhail Mohammad Abdullatif,NormalRank,Q200030,Latakia,true,true,false,,,,
+Q110158645,Boutros Al-Hallaq,NormalRank,Q172251,Yabrud,true,true,true,false,false,true,true
+Q110176262,Mohammad Fayez al-Barasha,NormalRank,Q3766,Damascus,true,true,true,false,false,true,true
+Q111748038,Ali Mahmoud Abbas,,,,,,false,,,,
+Q111995588,Tawfiq Younes,NormalRank,Q174916,Tartus,true,true,false,,,,
+Q112056330,Mohammad Samir Haddad,,,,,,false,,,,
+Q112056331,Maloul al-Hussein,,,,,,false,,,,
+Q112704278,Hisham Al Shaar,,,,,,false,,,,
+Q113000799,Maher Hammami,,,,,,false,,,,
+Q113989404,Abdul Karim Mahmoud Ibrahim,,,,,,false,,,,
+Q113989405,Salim Harba,,,,,,false,,,,
+Q113989511,Ismael Ismael,,,,,,false,,,,
+Q113989512,Khalid al-Mahayni,,,,,,false,,,,
+Q113989513,Maamoun Hamdan,,,,,,false,,,,
+Q113989653,Rida Said,,,,,,false,,,,
+Q113989669,Nizar Wahba Yaziji,,,,,,false,,,,
+Q118725,Hafez al-Assad,NormalRank,Q2121450,Qardaha,true,true,true,false,false,false,true
+Q12180950,Anisa Makhlouf,NormalRank,Q200030,Latakia,true,true,true,false,true,false,false
+Q12199735,Bahjat Suleiman,NormalRank,Q200030,Latakia,true,true,true,false,false,true,true
+Q12214743,Zuhair Ramadan,NormalRank,Q200030,Latakia,true,true,true,true,true,false,false
+Q12216136,Said Mohammad Sammour,NormalRank,Q175923,Jableh,true,true,true,false,false,false,true
+Q1334803,Walid Muallem,NormalRank,Q3766,Damascus,true,true,true,false,false,false,true
+Q1359497,Hisham Ikhtiyar,NormalRank,Q3766,Damascus,true,true,false,,,,
+Q1392054,Fahd Jassem al-Freij,NormalRank,Q173545,Hama,true,true,true,false,false,false,true
+Q15126787,Khalid Raad,,,,,,false,,,,
+Q1588608,Hasan Turkmani,NormalRank,Q41183,Aleppo,true,true,true,false,false,false,true
+Q16230480,Saad Abdel-Salam al-Nayef,,,,,,false,,,,
+Q1694182,Mohammad al-Shaar,NormalRank,Q200030,Latakia,true,true,false,,,,
+Q18217778,Lubanah Mshaweh,NormalRank,Q3766,Damascus,true,true,true,false,false,false,true
+Q1884964,Mahmoud Zuabi,NormalRank,Q6401751,Khirbet Ghazaleh,true,true,true,false,false,false,true
+Q1942655,Mohammad Jihad al-Laham,NormalRank,Q3766,Damascus,true,true,true,false,false,false,true
+Q2121339,Qadri Jamil,NormalRank,Q3766,Damascus,true,true,true,false,false,false,true
+Q231637,Asma al-Assad,NormalRank,Q83609,Acton,true,true,false,,,,
+Q24572906,Hadiya Khalaf Abbas,NormalRank,Q239097,Deir ez-Zor,true,true,true,false,false,false,true
+Q2836110,Ali Aslan,NormalRank,Q175923,Jableh,true,true,true,false,true,false,false
+Q307237,Abdul Halim Khaddam,NormalRank,Q263922,Baniyas,true,true,true,false,false,false,true
+Q3277843,Mahmoud al-Abrash,NormalRank,Q232399,Rif Dimashq Governorate,true,true,true,false,false,false,true
+Q336406,Muhammad Naji al-Otari,NormalRank,Q41183,Aleppo,true,true,true,false,false,false,true
+Q3430000,Riad Ismat,NormalRank,Q3766,Damascus,true,true,false,,,,
+Q353713,Adel Safar,NormalRank,Q3766,Damascus,true,true,true,false,false,false,true
+Q354642,Riyad Farid Hijab,NormalRank,Q239097,Deir ez-Zor,true,true,true,false,false,false,true
+Q369251,Ali Habib Mahmud,NormalRank,Q174916,Tartus,true,true,true,false,false,false,true
+Q403471,Muhammad Mustafa Mero,NormalRank,Q2650067,Al-Tall,true,true,true,false,false,false,true
+Q403707,Mustafa Tlass al jahesh,NormalRank,Q131301,Homs,true,true,true,true,true,false,false
+Q403707,Mustafa Tlass al jahesh,NormalRank,Q1867822,Al-Rastan,true,true,true,false,false,false,true
+Q4120447,Mohammed Saeed Bekheitan,NormalRank,Q239097,Deir ez-Zor,true,true,true,false,true,false,false
+Q41229317,Hammouda Sabbagh,NormalRank,Q311321,Al-Hasakah,true,true,true,false,false,true,true
+Q42904593,Tammam Ahmad Sulaiman,,,,,,false,,,,
+Q456977,Dawoud Rajiha,NormalRank,Q3766,Damascus,true,true,true,false,false,false,true
+Q4664575,Abd al-Qadir Qaddura,NormalRank,Q7188448,Bariqa,true,true,true,false,false,true,true
+Q4666080,Abdullah al-Dardari,NormalRank,Q3766,Damascus,true,true,true,false,false,true,true
+Q4724539,Ali Abdul Karim,,,,,,false,,,,
+Q4724546,Ali Abdullah Ayyoub,NormalRank,Q200030,Latakia,true,true,true,false,false,false,true
+Q4724843,Ali Hammoud,NormalRank,Q131301,Homs,true,true,true,false,false,false,true
+Q4866775,Bashar Jaafari,NormalRank,Q3766,Damascus,true,true,false,,,,
+Q4868003,Bassam Abdel Majeed,NormalRank,Q1830602,Beer Ajam,true,true,true,false,false,false,true
+Q5431067,Faisal Mekdad,NormalRank,Q1689560,Daraa Governorate,true,true,true,false,false,false,true
+Q55104096,Bassam Alsabbagh,NormalRank,Q41183,Aleppo,true,true,true,false,true,false,false
+Q6001983,Imad Khamis,NormalRank,Q3766,Damascus,true,true,false,,,,
+Q60455401,Hussein Arnous,NormalRank,Q12184846,Al-Tah,true,true,true,false,false,true,true
+Q60455444,Hussein Makhlouf,NormalRank,Q200030,Latakia,true,true,true,false,false,false,true
+Q60564584,Imad Abdullah Sarah,NormalRank,Q3766,Damascus,true,true,true,false,false,false,true
+Q60572712,Muhammad Iyad Shatti,NormalRank,Q3766,Damascus,true,true,true,false,false,true,true
+Q60572925,Mohammad Samer al-Khalil,NormalRank,Q3766,Damascus,true,true,true,false,false,false,true
+Q6751840,Mansour Fadlallah Azzam,NormalRank,Q214064,Aleppo Governorate,true,true,true,false,false,false,true
+Q686595,Najah al-Attar,NormalRank,Q3766,Damascus,true,true,true,false,false,false,true
+Q6892556,Mohammad al-Hussein,,,,,,false,,,,
+Q6892558,Mohammad al-Atrash,NormalRank,Q174916,Tartus,true,true,true,false,false,false,true
+Q6892565,Mohammad al Jililati,NormalRank,Q3766,Damascus,true,true,true,false,false,false,true
+Q6892847,Mohammed Abdul Sattar,NormalRank,Q174916,Tartus,true,true,true,false,false,false,true
+Q713715,Farouk al-Sharaa,NormalRank,Q75488,Mhardeh District,true,true,true,false,false,false,true
+Q713915,Wael Nader Al-Halqi,NormalRank,Q4116040,Jasim,true,true,true,false,false,false,true
+Q7398853,Safwan al-Qudsi,NormalRank,Q3766,Damascus,true,true,true,false,false,true,true
+Q741727,Ghazi Kanaan,NormalRank,Q858,Syria,true,false,true,false,false,false,true
+Q8075029,Zuhair Masharqa,NormalRank,Q41183,Aleppo,true,true,true,false,false,false,true
+Q85874875,Mohammad Khaled al-Rahmoun,NormalRank,Q603516,Khan Shaykhun,true,true,true,false,false,true,true
+Q918978,Omar Ibrahim Ghalawanji,NormalRank,Q3766,Damascus,true,true,true,false,false,false,true
+Q984486,Sabah Fakhri,NormalRank,Q41183,Aleppo,true,true,true,false,false,false,true
+Q98796946,Darem Tabbaa,NormalRank,Q3766,Damascus,true,true,true,false,false,true,true
+Q98798381,Ahmad al-Sayyed,NormalRank,Q12191506,"Quneitra, Idlib",true,true,false,,,,
+Q98798395,Tammam Raad,NormalRank,Q195410,Al-Qusayr,true,true,false,,,,
+Q98798406,Talal Al-Barazi,NormalRank,Q173545,Hama,true,true,false,,,,
+Q98798423,Bassam Bashir Ibrahim,NormalRank,Q173545,Hama,true,true,true,false,false,true,true
+Q98798433,Salam Safaf,NormalRank,Q3766,Damascus,true,true,true,false,false,true,true
+Q98798445,Salwa Abdullah,NormalRank,Q12191506,"Quneitra, Idlib",true,true,false,,,,
+Q98798457,Mohamed Martini,NormalRank,Q41183,Aleppo,true,true,true,true,false,false,false
+Q98798467,Zouhair Khazim,NormalRank,Q200030,Latakia,true,true,false,,,,
+Q98798481,Bassam Tohme,NormalRank,Q1002557,Safita,true,true,false,,,,
+Q98798488,Hassan al-Ghabbash,NormalRank,Q3766,Damascus,true,true,false,,,,
+Q98798493,Mohammed Hassan Qatana,NormalRank,Q3766,Damascus,true,true,true,false,false,true,true
+Q98798533,Ghassan al-Zamel,NormalRank,Q1689560,Daraa Governorate,true,true,false,,,,
+Q98798540,Ziyad Sabbagh,NormalRank,Q41183,Aleppo,true,true,false,,,,
+Q98807064,Kenan Yaghi,NormalRank,Q75621,Salamiyah,true,true,true,false,false,true,true
+Q98908359,Ahmed Al-Qadri,NormalRank,Q233914,Al-Hasakah Governorate,true,true,true,false,true,false,false
+Q44329,Bashar al-Assad,NormalRank,Q3766,Damascus,true,true,true,false,false,false,true
