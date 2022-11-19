@@ -59,7 +59,7 @@
               }
             },
             {
-              "text": "In addition, he is the commander-in-chief of the Syrian Armed Forces and the Secretary-General of the Central Command of the Arab Socialist Ba'ath Party.",
+              "text": "In addition, he is the commander-in-chief of the Syrian Armed Forces and the Secretary-General of the Central Command of the Arab Socialist Ba'ath Party, which espouses the ideologies of neo-Ba'athism and Assadism.",
               "links": [
                 {
                   "text": "commander-in-chief",
@@ -79,6 +79,17 @@
                   "text": "Arab Socialist Ba'ath Party",
                   "type": "internal",
                   "page": "Ba'ath Party (Syrian-dominated faction)"
+                },
+                {
+                  "text": "neo-Ba'athism",
+                  "type": "internal",
+                  "page": "Neo-ba'athism"
+                },
+                {
+                  "text": "Assadism",
+                  "type": "internal",
+                  "page": "Arab Socialist Ba'ath Party – Syria Region",
+                  "anchor": "Assadism"
                 }
               ]
             },
@@ -171,33 +182,47 @@
               ]
             },
             {
-              "text": "He entered the military academy, taking charge of the Syrian military presence in Lebanon in 1998.",
+              "text": "He entered the military academy, taking charge of the Syrian occupation of Lebanon in 1998.",
               "links": [
                 {
-                  "text": "Syrian military presence in Lebanon",
                   "type": "internal",
                   "page": "Syrian occupation of Lebanon"
                 }
               ]
             },
             {
-              "text": "Political scientists have described the Assad dynastic rule of Syria as a personalist dictatorship.",
+              "text": "Assad's regime functions as a personalist dictatorship, and several political scientists and journalists describe it as a \"totalitarian\" police state.",
               "links": [
-                {
-                  "text": "Assad dynastic",
-                  "type": "internal",
-                  "page": "Al-Assad family"
-                },
                 {
                   "text": "personalist dictatorship",
                   "type": "internal",
                   "page": "Dictatorship",
                   "anchor": "Personalist"
+                },
+                {
+                  "text": "political scientists",
+                  "type": "internal",
+                  "page": "political scientists"
+                },
+                {
+                  "text": "journalists",
+                  "type": "internal",
+                  "page": "Journalist"
+                },
+                {
+                  "text": "totalitarian",
+                  "type": "internal",
+                  "page": "Totalitarianism"
+                },
+                {
+                  "text": "police state",
+                  "type": "internal",
+                  "page": "police state"
                 }
               ]
             },
             {
-              "text": "Bashar inherited the bureaucratic structure and personality cult nurtured by Hafez al-Assad; although he lacked the charisma and loyalty received by his father; which led to rising discontent against his rule."
+              "text": "Although Bashar inherited the bureaucratic structure and personality cult nurtured by Hafez al-Assad; he lacked the charisma and loyalty received by his father; which led to rising discontent against his rule."
             }
           ]
         },
@@ -904,6 +929,58 @@
           "pages": "233",
           "doi": "10.1017/9781316336182",
           "s2cid": "226899229",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "last": "Khamis, B. Gold, Vaughn",
+          "first": "Sahar, Paul, Katherine",
+          "title": "The Oxford Handbook of Propoganda Studies",
+          "publisher": "Oxford University Press",
+          "year": "2013",
+          "isbn": "978-0-19-976441-9",
+          "editor-last": "Auerbach, Castronovo",
+          "editor-first": "Jonathan, Russ",
+          "location": "198 Madison Avenue, New York, NY 10016",
+          "pages": "422",
+          "chapter": "22. Propaganda in Egypt and Syria's \"Cyberwars\": Contexts, Actors, Tools, and Tactics",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "last": "Wieland",
+          "first": "Carsten",
+          "title": "Syria and the Neutrality Trap: The Dilemmas of Delivering Humanitarian Aid Through Violent Regimes",
+          "publisher": "I. B. Tauris",
+          "year": "2018",
+          "isbn": "978-0-7556-4138-3",
+          "location": "50 Bedford Square, London, WC1B 3DP, UK",
+          "pages": "68",
+          "chapter": "6: De-neutralizing Aid: All Roads Lead to Damascus",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "last": "Ahmed",
+          "first": "Saladdin",
+          "title": "Totalitarian Space and the Destruction of Aura",
+          "publisher": "Suny Press",
+          "year": "2019",
+          "isbn": "9781438472911",
+          "location": "State University of New York Press, Albany",
+          "pages": "144, 149",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "last": "Hensman",
+          "first": "Rohini",
+          "title": "Indefensible: Democracy, Counterrevolution, and the Rhetoric of Anti-Imperialism",
+          "publisher": "Haymarket Books",
+          "year": "2018",
+          "isbn": "978-1-60846-912-3",
+          "location": "Chicago, Illinois",
+          "chapter": "7: The Syrian Uprising",
           "template": "citation",
           "type": "book"
         },
@@ -3112,7 +3189,7 @@
         {
           "sentences": [
             {
-              "text": "On 4 September 2015, Russian President Vladimir Putin said that Russia was providing the Assad government with sufficiently \"serious\" help: with both logistical and military support.",
+              "text": "On 4 September 2015, when prospects of Assad's survival looked bleak, Russian President Vladimir Putin said that Russia was providing the Assad government with sufficiently \"serious\" help: with both logistical and military support.",
               "links": [
                 {
                   "type": "internal",
@@ -3127,6 +3204,18 @@
                   "text": "direct military intervention by Russia",
                   "type": "internal",
                   "page": "Russian military intervention in the Syrian Civil War"
+                }
+              ]
+            },
+            {
+              "text": "Putin's intervention saved Assad regime at a time when it was on the verge of a looming collapse."
+            },
+            {
+              "text": "It also enabled Moscow to achieve its key geo-strategic objectives such as total control of Syrian airspace, naval bases that granted permanent marital reach across the Eastern Mediterranean and easier access to intervene in Libya.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Eastern Mediterranean"
                 }
               ]
             }
@@ -3373,7 +3462,8 @@
       "templates": [
         {
           "list": [
-            "Russian involvement in the Syrian Civil War"
+            "Russian involvement in the Syrian Civil War",
+            "Russian imperialism"
           ],
           "template": "see also"
         }
@@ -3408,6 +3498,32 @@
           "issn": "0190-8286",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "last": "Borshchevskaya",
+          "first": "Anna",
+          "title": "Putin’s War in Syria",
+          "publisher": "I. B. Tauris",
+          "year": "2022",
+          "isbn": "978-0-7556-3463-7",
+          "location": "50 Bedford Square, London, WC1B 3DP, UK",
+          "pages": "69-88",
+          "chapter": "6: The Military Campaign",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "last": "Borshchevskaya",
+          "first": "Anna",
+          "title": "Putin’s War in Syria",
+          "publisher": "I. B. Tauris",
+          "year": "2022",
+          "isbn": "978-0-7556-3463-7",
+          "location": "50 Bedford Square, London, WC1B 3DP, UK",
+          "pages": "69-88",
+          "chapter": "6: The Military Campaign",
+          "template": "citation",
+          "type": "book"
         },
         {
           "url": "https://www.bbc.com/news/world-middle-east-34867215",
@@ -4144,12 +4260,17 @@
         {
           "sentences": [
             {
-              "text": "Numerous politicians, dissidents, authors and journalists have nicknamed Assad as the \"butcher\" of Syria for his war-crimes, anti-Sunni sectarian mass-killings and ethnic cleansing campaigns.",
+              "text": "Numerous politicians, dissidents, authors and journalists have nicknamed Assad as the \"butcher\" of Syria for his war-crimes, anti-Sunni sectarian mass-killings, chemical weapons attacks and ethnic cleansing campaigns.",
               "links": [
                 {
                   "text": "anti-Sunni",
                   "type": "internal",
                   "page": "Anti-Sunnism"
+                },
+                {
+                  "text": "chemical weapons attacks",
+                  "type": "internal",
+                  "page": "Chemical warfare"
                 }
               ]
             },
@@ -4168,7 +4289,7 @@
               ]
             },
             {
-              "text": "Stephen Rapp, the U.S. Ambassador-at-Large for War Crimes Issues, has argued that the crimes allegedly committed by Assad are the worst seen since those of Nazi Germany.",
+              "text": "Stephen Rapp, the U.S. Ambassador-at-Large for War Crimes Issues, has argued that the crimes committed by Assad are the worst seen since those of Nazi Germany.",
               "links": [
                 {
                   "type": "internal",
@@ -4485,6 +4606,17 @@
           "year": "2013",
           "isbn": "978-0-415-66216-1",
           "location": "711 Third Avenue, New York, NY 10017",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "last": "Warrick",
+          "first": "Jobby",
+          "title": "Red Line:",
+          "publisher": "Doubleday",
+          "year": "2021",
+          "isbn": "9780385544467",
+          "location": "New York, USA",
           "template": "citation",
           "type": "book"
         },
