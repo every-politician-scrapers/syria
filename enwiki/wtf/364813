@@ -2319,12 +2319,16 @@
         {
           "sentences": [
             {
-              "text": "Mass protests in Syria began on 26 January 2011.",
+              "text": "Protests in Syria began on 26 January 2011 following the Arab Spring.",
               "links": [
                 {
-                  "text": "Mass protests",
+                  "text": "Protests in Syria",
                   "type": "internal",
                   "page": "Civil uprising phase of the Syrian Civil War"
+                },
+                {
+                  "type": "internal",
+                  "page": "Arab Spring"
                 }
               ]
             },
@@ -2713,6 +2717,7 @@
       "templates": [
         {
           "list": [
+            "Arab Spring",
             "Syrian civil war",
             "Foreign involvement in the Syrian civil war",
             "Sanctions against Syria"
@@ -3262,7 +3267,7 @@
         {
           "sentences": [
             {
-              "text": "In January 2016, Putin stated that Russia was supporting Assad's forces and was ready to back anti-Assad rebels as long as they were fighting ISIL."
+              "text": "In December 2015, Putin stated that Russia was supporting Assad's forces and was ready to back anti-Assad rebels as long as they were fighting ISIL."
             }
           ]
         },
@@ -3462,8 +3467,7 @@
       "templates": [
         {
           "list": [
-            "Russian involvement in the Syrian Civil War",
-            "Russian imperialism"
+            "Russian involvement in the Syrian Civil War"
           ],
           "template": "see also"
         }
@@ -3556,6 +3560,14 @@
           "website": "NEWSru.com",
           "language": "ru",
           "date": "2 December 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://amp.dw.com/en/putin-claims-support-to-syrian-rebels/a-18913306",
+          "title": "Putin claims support to Syrian rebels",
+          "work": "DW News",
+          "date": "11 December 2015",
           "template": "citation",
           "type": "web"
         },
