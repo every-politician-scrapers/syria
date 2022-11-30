@@ -342,6 +342,7 @@
           "issue": "2",
           "pages": "329–349",
           "doi": "10.1017/S0020743814000130",
+          "s2cid": "146585947",
           "template": "citation",
           "type": "journal"
         },
@@ -501,11 +502,11 @@
         {
           "title": "Banker, princess, warlord: the many lives of Asma Assad",
           "url": "https://www.economist.com/1843/2021/03/10/banker-princess-warlord-the-many-lives-of-asma-assad",
-          "website": "The Economist",
+          "newspaper": "The Economist",
           "access-date": "25 April 2021",
           "date": "10 March 2021",
           "template": "citation",
-          "type": "web"
+          "type": "news"
         },
         {
           "url": "https://www.reuters.com/article/us-syria-asma-idUSBRE82I0MB20120319",
@@ -1534,7 +1535,7 @@
           "date": "28 January 2013",
           "title": "Syria's Bashar al-Assad says his wife is pregnant",
           "url": "https://www.washingtonpost.com/news/worldviews/wp/2013/01/28/syrias-bashar-al-assad-says-his-wife-is-pregnant/",
-          "work": "The Washington Post",
+          "newspaper": "The Washington Post",
           "access-date": "24 April 2021",
           "template": "citation",
           "type": "news"

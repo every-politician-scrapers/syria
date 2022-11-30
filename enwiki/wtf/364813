@@ -305,13 +305,9 @@
                   "page": "Sectarianism"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
-              "text": "Initially lauded by the Western press as a potential reformer, Bashar al-Assad's economic liberalisation programme worsened inequalities and increased the centralisation of social and political leverage within the pro-regime Damascene elite; alienating the Syrian rural population, urban working classes and people from once-traditional Ba'ath strongholds.",
+              "text": "Initially lauded in the Western press, Bashar al-Assad's economic liberalisation programme worsened inequalities and increased the socio-political centralisation of the loyalist Damascene elite; alienating the Syrian rural population, urban working classes and people from once-traditional Ba'ath strongholds.",
               "links": [
                 {
                   "text": "economic liberalisation",
@@ -329,7 +325,11 @@
                   "page": "Alawites"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "The United States (U.S.), the European Union (EU), and the majority of the Arab League called for Assad's resignation from the presidency in 2011 after he ordered a violent crackdown on Arab Spring protesters, which led to the Syrian civil war.",
               "links": [
@@ -354,6 +354,16 @@
                 {
                   "type": "internal",
                   "page": "Syrian civil war"
+                }
+              ]
+            },
+            {
+              "text": "Assad's forces launched a chemical attack in Ghouta in 21 August 2013, resulting in the deaths of 1,100-1,5000 civilians.",
+              "links": [
+                {
+                  "text": "chemical attack in Ghouta",
+                  "type": "internal",
+                  "page": "Ghouta chemical attack"
                 }
               ]
             },
@@ -835,7 +845,7 @@
           "year": "2019",
           "isbn": "978-977-85412-3-6",
           "location": "16 Faisal City, Almontaza, Alexandria, Egypt",
-          "pages": "26-27",
+          "pages": "26–27",
           "chapter": "The domestic structure of the regime",
           "template": "citation",
           "type": "book"
@@ -847,7 +857,7 @@
           "publisher": "Routledge",
           "year": "2022",
           "isbn": "9781317471981",
-          "pages": "760-761",
+          "pages": "760–761",
           "chapter": "Syria",
           "template": "citation",
           "type": "book"
@@ -992,7 +1002,7 @@
           "year": "2019",
           "isbn": "978-977-85412-3-6",
           "location": "16 Faisal City, Almontaza, Alexandria, Egypt",
-          "pages": "27-30",
+          "pages": "27–30",
           "chapter": "The domestic structure of the regime",
           "template": "citation",
           "type": "book"
@@ -1133,7 +1143,7 @@
           "year": "2019",
           "isbn": "978-977-85412-3-6",
           "location": "16 Faisal City, Almontaza, Alexandria, Egypt",
-          "pages": "27-30",
+          "pages": "27–30",
           "chapter": "The domestic structure of the regime",
           "template": "citation",
           "type": "book"
@@ -1159,6 +1169,56 @@
           "access-date": "13 March 2015",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "last1": "Alaverdov, Waseem Bari",
+          "first1": "Emilia, Muhammad",
+          "title": "Regulating Human Rights, Social Security, and Socio-Economic Structures in a Global Perspective",
+          "last2": "Pietrzak",
+          "first2": "Piotr",
+          "publisher": "IGI Global",
+          "year": "2022",
+          "isbn": "9781668446201",
+          "pages": "125–141",
+          "chapter": "8: How Did Bashar Al-Assad Get Away With the Ghouta Chemical Attack?: The Promise of Relinquishing Syria's Chemical Weapons Arsenal That Was Never Fully Fulfilled",
+          "doi": "10.4018/978-1-6684-4620-1",
+          "s2cid": "249911812",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "last": "Ashraf",
+          "first": "Sareta",
+          "date": "22 August 2022",
+          "title": "Nine Years Since Ghouta: Reflecting on the Use of Chemical Weapons in Syria",
+          "url": "https://www.ushmm.org/genocide-prevention/blog/nine-years-since-ghouta-chemical-weapons-in-syria",
+          "archive-url": "https://web.archive.org/web/20220822152939/https://www.ushmm.org/genocide-prevention/blog/nine-years-since-ghouta-chemical-weapons-in-syria",
+          "archive-date": "22 August 2022",
+          "website": "United States Holocaust Memorial Museum",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Hubbard, Mazzetti, Landler",
+          "first": "Ben, Mark, Mark",
+          "date": "26 August 2013",
+          "title": "Blasts in the Night, a Smell, and a Flood of Syrian Victims",
+          "work": "The New York Times",
+          "url": "https://www.nytimes.com/2013/08/27/world/middleeast/blasts-in-the-night-a-smell-and-a-flood-of-syrian-victims.html",
+          "archive-url": "https://web.archive.org/web/20221117184248/https://www.nytimes.com/2013/08/27/world/middleeast/blasts-in-the-night-a-smell-and-a-flood-of-syrian-victims.html",
+          "archive-date": "17 November 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "10 September 2013",
+          "title": "Attacks on Ghouta",
+          "url": "https://www.hrw.org/report/2013/09/10/attacks-ghouta/analysis-alleged-use-chemical-weapons-syria",
+          "archive-url": "https://web.archive.org/web/20221102104640/https://www.hrw.org/report/2013/09/10/attacks-ghouta/analysis-alleged-use-chemical-weapons-syria",
+          "archive-date": "2 November 2022",
+          "website": "Human Rights Watch",
+          "template": "citation",
+          "type": "web"
         },
         {
           "url": "https://www.bbc.co.uk/news/world-middle-east-25189834",
@@ -1927,6 +1987,7 @@
           "location": "Chicago, USA",
           "pages": "28, 39, 60-61",
           "doi": "10.7208/chicago/978022345536.001.0001",
+          "doi-broken-date": "29 November 2022",
           "template": "citation",
           "type": "book"
         },
@@ -3506,12 +3567,12 @@
         {
           "last": "Borshchevskaya",
           "first": "Anna",
-          "title": "Putin’s War in Syria",
+          "title": "Putin's War in Syria",
           "publisher": "I. B. Tauris",
           "year": "2022",
           "isbn": "978-0-7556-3463-7",
           "location": "50 Bedford Square, London, WC1B 3DP, UK",
-          "pages": "69-88",
+          "pages": "69–88",
           "chapter": "6: The Military Campaign",
           "template": "citation",
           "type": "book"
@@ -3519,12 +3580,12 @@
         {
           "last": "Borshchevskaya",
           "first": "Anna",
-          "title": "Putin’s War in Syria",
+          "title": "Putin's War in Syria",
           "publisher": "I. B. Tauris",
           "year": "2022",
           "isbn": "978-0-7556-3463-7",
           "location": "50 Bedford Square, London, WC1B 3DP, UK",
-          "pages": "69-88",
+          "pages": "69–88",
           "chapter": "6: The Military Campaign",
           "template": "citation",
           "type": "book"
@@ -4613,7 +4674,7 @@
           "last": "Tibi",
           "first": "Bassam",
           "url": "https://www.google.co.in/books/edition/The_Sharia_State/uXAdAAAAQBAJ?hl=en&gbpv=1",
-          "title": "The Shari’a State: Arab Spring and Democratization",
+          "title": "The Shari'a State: Arab Spring and Democratization",
           "publisher": "Routledge",
           "year": "2013",
           "isbn": "978-0-415-66216-1",
@@ -4624,7 +4685,7 @@
         {
           "last": "Warrick",
           "first": "Jobby",
-          "title": "Red Line:",
+          "title": "Red Line",
           "publisher": "Doubleday",
           "year": "2021",
           "isbn": "9780385544467",
@@ -4705,7 +4766,7 @@
           "year": "2019",
           "isbn": "978-977-85412-3-6",
           "location": "16 Faisal City, Almontaza, Alexandria, Egypt",
-          "pages": "29-38",
+          "pages": "29–38",
           "chapter": "The domestic structure of the regime",
           "template": "citation",
           "type": "book"
@@ -4739,7 +4800,7 @@
           "year": "2019",
           "isbn": "978-977-85412-3-6",
           "location": "16 Faisal City, Almontaza, Alexandria, Egypt",
-          "pages": "33-34",
+          "pages": "33–34",
           "chapter": "The domestic structure of the regime",
           "template": "citation",
           "type": "book"
