@@ -1986,8 +1986,7 @@
           "isbn": "978-0-226-33337-3",
           "location": "Chicago, USA",
           "pages": "28, 39, 60-61",
-          "doi": "10.7208/chicago/978022345536.001.0001",
-          "doi-broken-date": "29 November 2022",
+          "url": "https://press.uchicago.edu/ucp/books/book/chicago/A/bo22776830.html",
           "template": "citation",
           "type": "book"
         },
