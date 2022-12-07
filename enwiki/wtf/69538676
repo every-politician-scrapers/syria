@@ -52,12 +52,20 @@
       "infoboxes": [
         {
           "honorific-prefix": {
-            "text": "HE",
+            "text": "HE, Dr, Prof",
             "links": [
               {
                 "text": "HE",
                 "type": "internal",
                 "page": "Excellency"
+              },
+              {
+                "type": "internal",
+                "page": "Dr"
+              },
+              {
+                "type": "internal",
+                "page": "Prof"
               }
             ]
           },
@@ -85,8 +93,12 @@
             ]
           },
           "profession": {
-            "text": "Politician, Scientist, Civil servant",
+            "text": "University Professor, Politician, Scientist, Civil servant",
             "links": [
+              {
+                "type": "internal",
+                "page": "University Professor"
+              },
               {
                 "type": "internal",
                 "page": "Politician"
@@ -171,6 +183,9 @@
           },
           "term_start": {
             "text": "30 August 2020"
+          },
+          "image": {
+            "text": "Http://107.6.182.27/en/wp-content/uploads/2021/08/11-9.jpg"
           }
         }
       ],
@@ -195,13 +210,55 @@
         {
           "sentences": [
             {
-              "text": "He graduated from the University of Leipzig and the University of Göttingen.",
+              "text": "He graduated from the faculty of Faculty of Veterinary Medicine of Al Baath University as a veterinarian in 1981.",
               "links": [
+                {
+                  "text": "Faculty of Veterinary Medicine",
+                  "type": "internal",
+                  "page": "Veterinary medicine"
+                },
+                {
+                  "text": "Al Baath University",
+                  "type": "internal",
+                  "page": "Al-Baath University"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He obtained a phD in Virology, Epidemiology and Public Health from the Faculty of veterinary medicine of the University of Leipzig in 1988.",
+              "links": [
+                {
+                  "text": "phD",
+                  "type": "internal",
+                  "page": "Doctor of Philosophy"
+                },
+                {
+                  "type": "internal",
+                  "page": "Virology"
+                },
+                {
+                  "type": "internal",
+                  "page": "Epidemiology"
+                },
+                {
+                  "text": "Public Health",
+                  "type": "internal",
+                  "page": "Public health"
+                },
                 {
                   "text": "University of Leipzig",
                   "type": "internal",
                   "page": "Leipzig University"
-                },
+                }
+              ]
+            },
+            {
+              "text": "And obtained a second phD in Tropical and Subtropical Animal Hygiene from the University of Göttingen in 1998.",
+              "links": [
                 {
                   "type": "internal",
                   "page": "University of Göttingen"
@@ -240,6 +297,28 @@
           "sentences": [
             {
               "text": "He runs many international Syrian projects and in 2015 he became a Director of the National Center for Educational Curriculum Development and remained until 2019 and later was named as Assistant Secretary of Education."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "1981-1983 Officer at the central veterinary laboratory in Damascus, for bacterial diagnosis of animal diseases, vaccine production, and working in private clinic for large animals in the Ghota region around Damascus."
+            },
+            {
+              "text": "1983-1988 Aspirant at the University of Leipzig/ Germany 1988-1990 Lecturer at the faculty vet medicine of Al Baath university, Hama/ Syria 1990-1994 Docent at the faculty of veterinary medicine of Al Baath university Hama/ Syria for animal health."
+            },
+            {
+              "text": "1994 - 1999: Associate professor of animal hygiene at the faculty of Veterinary medicine Hama/ Syria 1989 - present : Director of the research laboratory of the faculty of veterinary medicine Hama/ Syria 1993 - present : Director of the project for animal protection in Syria in cooperation with the Society of Animal Protection Abroad (SPANA) in London / England 1995-2000: Vice -dean of the faculty of veterinary medicine Hama/Syria."
+            },
+            {
+              "text": "2005- 2007 Dean of the faculty of veterinary medicine Hama/Syria 1991 - present: Member at the Editing board of the scientific journal of Al Baath University."
+            },
+            {
+              "text": "1990 - present: Member at the executive board of the international society of animal hygiene 1989 - present: Moderator for project planning with the GTZ ( German Technical cooperation Agency ) through OOPP ( Objective Oriented Project Planning) 1999 : Professor of veterinary public health and animal hygiene at the faculty of vet. Med."
+            },
+            {
+              "text": "Hama- Syria"
             }
           ]
         }

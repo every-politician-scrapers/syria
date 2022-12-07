@@ -57,6 +57,10 @@
       ],
       "templates": [
         {
+          "description": "Syrian politician",
+          "template": "short description"
+        },
+        {
           "date": "April 2022",
           "template": "use dmy dates"
         },
