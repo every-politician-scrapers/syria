@@ -18,12 +18,22 @@
         {
           "sentences": [
             {
-              "text": "Mohammed Abdul Sattar (Arabic:محمد عبد الستار) (born 1958, Tartus) is the current Minister of Awqaf of Syria, serving since 2007.",
+              "text": "Mohammed Abdul Sattar (Arabic:",
               "links": [
                 {
                   "type": "internal",
                   "page": "Arabic"
-                },
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Mohammed Abdul Sattar"
+                ]
+              }
+            },
+            {
+              "text": "محمد عبد الستار) (born 1958, Tartus) is the current Minister of Awqaf of Syria, serving since 2007.",
+              "links": [
                 {
                   "type": "internal",
                   "page": "Tartus"
@@ -37,12 +47,7 @@
                   "type": "internal",
                   "page": "Syria"
                 }
-              ],
-              "formatting": {
-                "bold": [
-                  "Mohammed Abdul Sattar"
-                ]
-              }
+              ]
             }
           ]
         }
