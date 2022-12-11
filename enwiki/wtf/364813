@@ -1651,6 +1651,10 @@
           "title": "Bashar al-Assad: behind the mask",
           "work": "Financial Times",
           "url": "https://www.ft.com/content/669da3aa-b5b5-11e1-ab92-00144feabdc0",
+          "archive-url": "https://ghostarchive.org/archive/20221210/https://www.ft.com/content/669da3aa-b5b5-11e1-ab92-00144feabdc0",
+          "archive-date": "10 December 2022",
+          "url-access": "subscription",
+          "url-status": "live",
           "access-date": "14 March 2015",
           "template": "citation",
           "type": "news"
@@ -3772,6 +3776,9 @@
         },
         {
           "url": "http://www.ft.com/cms/s/0/735b4746-c01f-11e5-9fdb-87b8d15baec2.html",
+          "archive-url": "https://ghostarchive.org/archive/20221210/http://www.ft.com/cms/s/0/735b4746-c01f-11e5-9fdb-87b8d15baec2.html",
+          "archive-date": "10 December 2022",
+          "url-access": "subscription",
           "title": "Vladimir Putin asked Bashar al-Assad to step down",
           "newspaper": "Financial Times",
           "date": "22 January 2016",
@@ -8519,6 +8526,9 @@
         },
         {
           "url": "http://www.ft.com/cms/s/0/e0ce4102-710e-11e1-a7f1-00144feab49a.html",
+          "archive-url": "https://ghostarchive.org/archive/20221210/http://www.ft.com/cms/s/0/e0ce4102-710e-11e1-a7f1-00144feab49a.html",
+          "archive-date": "10 December 2022",
+          "url-access": "subscription",
           "title": "Assad: faithful student of ruthlessness",
           "first1": "Roula",
           "last1": "Khalaf",
