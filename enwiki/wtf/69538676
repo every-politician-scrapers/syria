@@ -60,8 +60,9 @@
                 "page": "Excellency"
               },
               {
+                "text": "Dr",
                 "type": "internal",
-                "page": "Dr"
+                "page": "Doctor (title)"
               },
               {
                 "type": "internal",
