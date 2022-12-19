@@ -52,10 +52,13 @@
         {
           "sentences": [
             {
-              "text": "He worked as Vice president of scientific affairs at Damascus university in 2021."
-            },
-            {
-              "text": "Dean of the Media college between 2013-2017."
+              "text": "He worked as Vice President of Scientific Affairs at Damascus University in 2021, and as Dean of the Media College from 2013 to 2017.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Damascus University"
+                }
+              ]
             }
           ]
         }
@@ -210,18 +213,12 @@
         },
         {
           "author": "Prime Minister's Office",
-          "url": "https://sana.sy/en/?page_id=1900",
           "title": "Prime Minister's Office – Syrian Arab News Agency",
-          "publisher": "Sana.sy",
+          "url": "https://sana.sy/en/?page_id=1900",
           "accessdate": "2021-12-21",
+          "publisher": "Sana.sy",
           "template": "citation",
           "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
         }
       ]
     },
