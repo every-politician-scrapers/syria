@@ -29,7 +29,7 @@
         {
           "sentences": [
             {
-              "text": "Asma Fawaz al-Assad (born 11 August 1975) is the First Lady of Syria.",
+              "text": "Asma Fawaz al-Assad (née Akhras; born 11 August 1975) is the First Lady of Syria.",
               "links": [
                 {
                   "type": "internal",
@@ -42,7 +42,8 @@
               ],
               "formatting": {
                 "bold": [
-                  "Asma Fawaz al-Assad"
+                  "Asma Fawaz al-Assad",
+                  "Akhras"
                 ]
               }
             },
