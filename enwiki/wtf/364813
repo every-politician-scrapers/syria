@@ -470,12 +470,6 @@
           "template": "marriage"
         },
         {
-          "author": "Leverett",
-          "year": "2005",
-          "p": "60",
-          "template": "sfn"
-        },
-        {
           "template": "bashar al-assad series"
         },
         {
@@ -758,20 +752,11 @@
             ]
           },
           "alma_mater": {
-            "text": "Damascus University (BSc), (MSc)",
+            "text": "Damascus University",
             "links": [
               {
                 "type": "internal",
                 "page": "Damascus University"
-              },
-              {
-                "text": "BSc",
-                "type": "internal",
-                "page": "Bachelor of Medicine, Bachelor of Surgery"
-              },
-              {
-                "type": "internal",
-                "page": "MSc"
               }
             ]
           },
