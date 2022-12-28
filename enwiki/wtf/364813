@@ -7126,7 +7126,7 @@
               "text": "Turnout was estimated to be 73.42% of eligible voters, including those in rebel-controlled areas."
             },
             {
-              "text": "Individuals interviewed in a \"Sunni-dominated, middle-class neighborhood of central Damascus\" said there was significant support for Assad among the Sunnis in Syria."
+              "text": "Individuals interviewed in a \"Sunni-dominated, middle-class neighborhood of central Damascus\" s aid there was significant support for Assad among the Sunnis in Syria."
             },
             {
               "text": "Attempts to hold an election under the circumstances of an ongoing civil war were criticised by UN Secretary-General Ban Ki-moon.",
@@ -7136,6 +7136,32 @@
                   "page": "Ban Ki-moon"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Syrian dissident Abdul Halim Khaddam who served as Vice-President during the tenures of both Hafez and Bashar, disparaged Bashar al-Assad as a pawn in Iran's imperial scheme.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Abdul Halim Khaddam"
+                },
+                {
+                  "text": "Vice-President",
+                  "type": "internal",
+                  "page": "Vice President of Syria"
+                },
+                {
+                  "text": "imperial scheme",
+                  "type": "internal",
+                  "page": "Shia crescent"
+                }
+              ]
+            },
+            {
+              "text": "Contrasting the power dynamics that existed under both the autocrats, Khaddam stated: \"[Bashar] is not like his father.. He never allowed the Iranians to intervene in Syrian affairs.. During Hafez Assad’s time, an Iranian delegation arrived in Syria and attempted to convert some of the Muslim Alawite Syrians to Shia Islam... Assad ordered his minister of foreign Affairs to summon the Iranian ambassador to deliver an ultimatum: The delegation has 24 hours to exit Syria.... They had no power [during Hafez’s rule], unlike Bashar who gave them [Iranians] power and control.\""
             }
           ]
         }
@@ -7292,6 +7318,26 @@
           "type": "inline",
           "data": {},
           "inline": {}
+        },
+        {
+          "date": "10 October 2017",
+          "title": "Interview with Former Syrian Vice President Abdul Halim Khaddam",
+          "url": "https://newsweekme.com/exclusive-interview-former-syrian-vice-president-abdul-halim-khaddam/",
+          "archive-url": "https://web.archive.org/web/20161005013940/http://newsweekme.com/exclusive-interview-former-syrian-vice-president-abdul-halim-khaddam/",
+          "archive-date": "5 October 2016",
+          "website": "NewsWeek",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "6 October 2016",
+          "title": "Daesh was nurtured by Iran, says former Syrian vice president",
+          "url": "https://www.arabnews.com/node/994396/middle-east",
+          "archive-url": "https://web.archive.org/web/20161006075951/http://www.arabnews.com/node/994396/middle-east",
+          "archive-date": "6 October 2016",
+          "website": "Arab News",
+          "template": "citation",
+          "type": "web"
         },
         {
           "url": "http://edition.cnn.com/2014/09/25/world/meast/us-syria-rebel-agreement/",
