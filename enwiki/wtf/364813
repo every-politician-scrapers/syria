@@ -207,7 +207,7 @@
                 {
                   "text": "journalists",
                   "type": "internal",
-                  "page": "Journalist"
+                  "page": "journalist"
                 },
                 {
                   "text": "totalitarian",
@@ -358,7 +358,7 @@
               ]
             },
             {
-              "text": "Assad's forces launched a chemical attack in Ghouta in 21 August 2013, resulting in the deaths of 1,100-1,500 civilians.",
+              "text": "Assad's forces launched a chemical attack in Ghouta on 21 August 2013, resulting in the deaths of 1,100-1,500 civilians.",
               "links": [
                 {
                   "text": "chemical attack in Ghouta",
@@ -980,19 +980,6 @@
           "type": "book"
         },
         {
-          "last": "Allam, Saber",
-          "first": "Ashraf, Salah",
-          "title": "Assad's Survival: The Symbol Of Resisting The Arab Spring",
-          "publisher": "Lamar",
-          "year": "2019",
-          "isbn": "978-977-85412-3-6",
-          "location": "16 Faisal City, Almontaza, Alexandria, Egypt",
-          "pages": "27–30",
-          "chapter": "The domestic structure of the regime",
-          "template": "citation",
-          "type": "book"
-        },
-        {
           "template": "citation",
           "type": "inline",
           "data": {},
@@ -1121,19 +1108,6 @@
           "type": "news"
         },
         {
-          "last": "Allam, Saber",
-          "first": "Ashraf, Salah",
-          "title": "Assad's Survival: The Symbol Of Resisting The Arab Spring",
-          "publisher": "Lamar",
-          "year": "2019",
-          "isbn": "978-977-85412-3-6",
-          "location": "16 Faisal City, Almontaza, Alexandria, Egypt",
-          "pages": "27–30",
-          "chapter": "The domestic structure of the regime",
-          "template": "citation",
-          "type": "book"
-        },
-        {
           "author": "Bassem Mroue",
           "url": "http://www.huffingtonpost.com/2011/04/18/bashar-assad-resignation-syria-protest_n_850657.html",
           "title": "Bashar Assad Resignation Called For By Syria Sit-In Activists",
@@ -1258,6 +1232,19 @@
           "trans-title": "Who is the Syrian President Bashar al-Assad?",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "last": "Allam, Saber",
+          "first": "Ashraf, Salah",
+          "title": "Assad's Survival: The Symbol Of Resisting The Arab Spring",
+          "publisher": "Lamar",
+          "year": "2019",
+          "isbn": "978-977-85412-3-6",
+          "location": "16 Faisal City, Almontaza, Alexandria, Egypt",
+          "pages": "27–30",
+          "chapter": "The domestic structure of the regime",
+          "template": "citation",
+          "type": "book"
         },
         {
           "date": "28 May 2007",
@@ -1974,7 +1961,7 @@
           "year": "2015",
           "isbn": "978-0-226-33337-3",
           "location": "Chicago, USA",
-          "pages": "28, 39, 60-61",
+          "pages": "28, 39, 60–61",
           "url": "https://press.uchicago.edu/ucp/books/book/chicago/A/bo22776830.html",
           "template": "citation",
           "type": "book"
@@ -3553,32 +3540,6 @@
           "type": "news"
         },
         {
-          "last": "Borshchevskaya",
-          "first": "Anna",
-          "title": "Putin's War in Syria",
-          "publisher": "I. B. Tauris",
-          "year": "2022",
-          "isbn": "978-0-7556-3463-7",
-          "location": "50 Bedford Square, London, WC1B 3DP, UK",
-          "pages": "69–88",
-          "chapter": "6: The Military Campaign",
-          "template": "citation",
-          "type": "book"
-        },
-        {
-          "last": "Borshchevskaya",
-          "first": "Anna",
-          "title": "Putin's War in Syria",
-          "publisher": "I. B. Tauris",
-          "year": "2022",
-          "isbn": "978-0-7556-3463-7",
-          "location": "50 Bedford Square, London, WC1B 3DP, UK",
-          "pages": "69–88",
-          "chapter": "6: The Military Campaign",
-          "template": "citation",
-          "type": "book"
-        },
-        {
           "url": "https://www.bbc.com/news/world-middle-east-34867215",
           "title": "Syria crisis: Assad says no transition while 'terrorists' remain",
           "newspaper": "BBC News",
@@ -3741,6 +3702,19 @@
           "access-date": "2021-10-05",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "last": "Borshchevskaya",
+          "first": "Anna",
+          "title": "Putin's War in Syria",
+          "publisher": "I. B. Tauris",
+          "year": "2022",
+          "isbn": "978-0-7556-3463-7",
+          "location": "50 Bedford Square, London, WC1B 3DP, UK",
+          "pages": "69–88",
+          "chapter": "6: The Military Campaign",
+          "template": "citation",
+          "type": "book"
         },
         {
           "url": "http://www.interfax.ru/russia/472593",
@@ -4416,7 +4390,7 @@
               ]
             },
             {
-              "text": "As soon as demonstrations arose in 2011-2012, Bashar al-Assad opted to implement the \"Samson option\", the characteristic approach of the Ba'athist regime since the era of Hafez al-Assad; wherein protests were violently suppressed and demonstrators were shot and fired at directly by the armed forces.",
+              "text": "As soon as demonstrations arose in 2011–2012, Bashar al-Assad opted to implement the \"Samson option\", the characteristic approach of the Ba'athist regime since the era of Hafez al-Assad; wherein protests were violently suppressed and demonstrators were shot and fired at directly by the armed forces.",
               "links": [
                 {
                   "text": "Ba'athist",
