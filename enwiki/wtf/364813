@@ -3825,6 +3825,13 @@
         {
           "sentences": [
             {
+              "text": "\"Three years into a conflict that is estimated to have killed at least 140,000 people from both sides, much of the Syrian economy lies in ruins. As the violence has expanded and sanctions have been imposed, assets and infrastructure have been destroyed, economic output has fallen, and investors have fled the country. Unemployment now exceeds 50 percent and half of the population lives below the poverty line ... against this backdrop, a war economy is emerging that is creating significant new economic networks and business activities that feed off the violence, chaos, and lawlessness gripping the country. This war economy – to which Western sanctions have inadvertently contributed – is creating incentives for some Syrians to prolong the conflict and making it harder to end it.\""
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
               "text": "A UN commissioned report by the Syrian Centre for Policy Research states that two-thirds of the Syrian population now lives in \"extreme poverty\".",
               "links": [
                 {
@@ -3863,9 +3870,7 @@
           "template": "see also"
         },
         {
-          "list": [
-            "Three years into a conflict that is estimated to have killed at least 140,000 people from both sides, much of the Syrian economy lies in ruins. As the violence has expanded and sanctions have been imposed, assets and infrastructure have been destroyed, economic output has fallen, and investors have fled the country. Unemployment now exceeds 50 percent and half of the population lives below the poverty line ... against this backdrop, a war economy is emerging that is creating significant new economic networks and business activities that feed off the violence, chaos, and lawlessness gripping the country. This war economy – to which Western sanctions have inadvertently contributed – is creating incentives for some Syrians to prolong the conflict and making it harder to end it."
-          ],
+          "text": "Three years into a conflict that is estimated to have killed at least 140,000 people from both sides, much of the Syrian economy lies in ruins. As the violence has expanded and sanctions have been imposed, assets and infrastructure have been destroyed, economic output has fallen, and investors have fled the country. Unemployment now exceeds 50 percent and half of the population lives below the poverty line ... against this backdrop, a war economy is emerging that is creating significant new economic networks and business activities that feed off the violence, chaos, and lawlessness gripping the country. This war economy – to which Western sanctions have inadvertently contributed – is creating incentives for some Syrians to prolong the conflict and making it harder to end it.",
           "template": "blockquote"
         }
       ],
@@ -4137,6 +4142,13 @@
               }
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "\"During its decades of rule... the Assad family developed a strong political safety net by firmly integrating the military into the government. In 1970, Hafez al-Assad, Bashar's father, seized power after rising through the ranks of the Syrian armed forces, during which time he established a network of loyal Alawites by installing them in key posts. In fact, the military, ruling elite, and ruthless secret police are so intertwined that it is now impossible to separate the Assad government from the security establishment.... So... the government and its loyal forces have been able to deter all but the most resolute and fearless oppositional activists. In this respect, the situation in Syria is to a certain degree comparable to Saddam Hussein's strong Sunni minority rule in Iraq.\""
+            }
+          ]
         }
       ],
       "images": [
@@ -4156,9 +4168,7 @@
           "template": "see also"
         },
         {
-          "list": [
-            "During its decades of rule... the Assad family developed a strong political safety net by firmly integrating the military into the government. In 1970, Hafez al-Assad, Bashar's father, seized power after rising through the ranks of the Syrian armed forces, during which time he established a network of loyal Alawites by installing them in key posts. In fact, the military, ruling elite, and ruthless secret police are so intertwined that it is now impossible to separate the Assad government from the security establishment.... So... the government and its loyal forces have been able to deter all but the most resolute and fearless oppositional activists. In this respect, the situation in Syria is to a certain degree comparable to Saddam Hussein's strong Sunni minority rule in Iraq."
-          ],
+          "text": "During its decades of rule... the Assad family developed a strong political safety net by firmly integrating the military into the government. In 1970, Hafez al-Assad, Bashar's father, seized power after rising through the ranks of the Syrian armed forces, during which time he established a network of loyal Alawites by installing them in key posts. In fact, the military, ruling elite, and ruthless secret police are so intertwined that it is now impossible to separate the Assad government from the security establishment.... So... the government and its loyal forces have been able to deter all but the most resolute and fearless oppositional activists. In this respect, the situation in Syria is to a certain degree comparable to Saddam Hussein's strong Sunni minority rule in Iraq.",
           "template": "blockquote"
         }
       ],
@@ -4427,7 +4437,7 @@
               ]
             },
             {
-              "text": "Contrasting the policies of Hafiz al-Assad and that of his son Bashar, former Syrian vice-president and dissident Abdul Halim Khaddam states: \"The Father had a mind and the Son has a loss of reason. How could the army use its force and the security appartus with all its might to destroy Syria because of a protest against the mistakes of one of your security officials. The father would act differently. Father Hafiz hit Hama after he encircled it, warned and then hit Hama after a long siege... But his son is different. On the subject of Daraa, Bashar gave instructions to open fire on the demonstrators.\"",
+              "text": "Contrasting the policies of Hafiz al-Assad and that of his son Bashar, former Syrian vice-president and dissident Abdul Halim Khaddam states: \"'The Father had a mind and the Son has a loss of reason. How could the army use its force and the security appartus with all its might to destroy Syria because of a protest against the mistakes of one of your security officials. The father would act differently. Father Hafiz hit Hama after he encircled it, warned and then hit Hama after a long siege... But his son is different. On the subject of Daraa, Bashar gave instructions to open fire on the demonstrators.'\"",
               "links": [
                 {
                   "text": "Hafiz al-Assad",
@@ -4607,6 +4617,10 @@
             "Use of chemical weapons in the Syrian civil war"
           ],
           "template": "more"
+        },
+        {
+          "text": "\"The Father had a mind and the Son has a loss of reason. How could the army use its force and the security appartus with all its might to destroy Syria because of a protest against the mistakes of one of your security officials. The father would act differently. Father Hafiz hit Hama after he encircled it, warned and then hit Hama after a long siege... But his son is different. On the subject of Daraa, Bashar gave instructions to open fire on the demonstrators.\"",
+          "template": "blockquote"
         }
       ],
       "references": [
@@ -5577,6 +5591,9 @@
                   "The Guardian"
                 ]
               }
+            },
+            {
+              "text": "\"... there would be no direct negotiations with Israel until a new U.S. president takes office. The U.S. was the only party qualified to sponsor any direct talks, [Assad] told the paper, but added that the Bush administration 'does not have the vision or will for the peace process. It does not have anything.'\""
             }
           ]
         },
@@ -5692,9 +5709,7 @@
       ],
       "templates": [
         {
-          "list": [
-            "... there would be no direct negotiations with Israel until a new U.S. president takes office. The U.S. was the only party qualified to sponsor any direct talks, [Assad] told the paper, but added that the Bush administration \"does not have the vision or will for the peace process. It does not have anything.\""
-          ],
+          "text": "... there would be no direct negotiations with Israel until a new U.S. president takes office. The U.S. was the only party qualified to sponsor any direct talks, [Assad] told the paper, but added that the Bush administration \"does not have the vision or will for the peace process. It does not have anything.\"",
           "template": "blockquote"
         }
       ],
@@ -7135,7 +7150,7 @@
               ]
             },
             {
-              "text": "Contrasting the power dynamics that existed under both the autocrats, Khaddam stated: \"[Bashar] is not like his father.. He never allowed the Iranians to intervene in Syrian affairs.. During Hafez Assad’s time, an Iranian delegation arrived in Syria and attempted to convert some of the Muslim Alawite Syrians to Shia Islam... Assad ordered his minister of foreign Affairs to summon the Iranian ambassador to deliver an ultimatum: The delegation has 24 hours to exit Syria.... They had no power [during Hafez’s rule], unlike Bashar who gave them [Iranians] power and control.\""
+              "text": "Contrasting the power dynamics that existed under both the autocrats, Khaddam stated: \"'[Bashar] is not like his father.. He never allowed the Iranians to intervene in Syrian affairs.. During Hafez Assad’s time, an Iranian delegation arrived in Syria and attempted to convert some of the Muslim Alawite Syrians to Shia Islam... Assad ordered his minister of foreign Affairs to summon the Iranian ambassador to deliver an ultimatum: The delegation has 24 hours to exit Syria.... They had no power [during Hafez’s rule], unlike Bashar who gave them [Iranians] power and control.'\""
             }
           ]
         }
@@ -7155,6 +7170,10 @@
             "Sectarianism and minorities in the Syrian Civil War"
           ],
           "template": "further"
+        },
+        {
+          "text": "\"[Bashar] is not like his father.. He never allowed the Iranians to intervene in Syrian affairs.. During Hafez Assad’s time, an Iranian delegation arrived in Syria and attempted to convert some of the Muslim Alawite Syrians to Shia Islam... Assad ordered his minister of foreign Affairs to summon the Iranian ambassador to deliver an ultimatum: The delegation has 24 hours to exit Syria.... They had no power [during Hafez’s rule], unlike Bashar who gave them [Iranians] power and control.\"",
+          "template": "blockquote"
         }
       ],
       "references": [
