@@ -417,7 +417,7 @@
               ]
             },
             {
-              "text": "Assad has rejected allegations of war crimes and criticised the American-led intervention in Syria for attempting regime change.",
+              "text": "Assad has rejected allegations of war crimes and criticised the American-led intervention in Syria for allegedly attempting regime change.",
               "links": [
                 {
                   "type": "internal",
@@ -6562,7 +6562,7 @@
         {
           "sentences": [
             {
-              "text": "During the interview with Jeremy Bowen in February 2015, Assad noted that the sources of the extreme ideology of Islamic State (ISIS) and other al-Qaeda affiliate groups are the Wahabbism that has been supported by kingdom of Saudi Arabia.",
+              "text": "During the interview with Jeremy Bowen in February 2015, Assad claimed that the sources of the extreme ideology of Islamic State (ISIS) and other al-Qaeda affiliate groups are the Wahabbism that has been supported by kingdom of Saudi Arabia.",
               "links": [
                 {
                   "type": "internal",
@@ -7358,7 +7358,113 @@
       ]
     },
     {
-      "title": "International support",
+      "title": "International Opposition",
+      "depth": 1
+    },
+    {
+      "title": "Left-wing",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Bashar al-Assad is widely criticised by left-wing activists and intellectuals world-wide for appropriating leftist ideologies and its socialist, progressive slogans as a cover for his own family rule and to empower a loyalist clique of elites at the expense of ordinary Syrians.",
+              "links": [
+                {
+                  "text": "socialist",
+                  "type": "internal",
+                  "page": "socialist"
+                },
+                {
+                  "text": "progressive",
+                  "type": "internal",
+                  "page": "Progressivism"
+                },
+                {
+                  "type": "internal",
+                  "page": "Syrians"
+                }
+              ]
+            },
+            {
+              "text": "His close alliance with clergy-ruled Khomeinist Iran and its sectarian militant networks; while simultaneously pursuing a policy of locking up left-wing critics of Assad family has been subject to heavy criticism.",
+              "links": [
+                {
+                  "text": "Khomeinist",
+                  "type": "internal",
+                  "page": "Khomeinism"
+                },
+                {
+                  "type": "internal",
+                  "page": "Iran"
+                },
+                {
+                  "text": "Assad family",
+                  "type": "internal",
+                  "page": "Al-Assad family"
+                }
+              ]
+            },
+            {
+              "text": "Describing Assad's regime as a mafia state that thrives on corruption and sectarianism, Lebanese socialist academic Gilbert Achcar states: \"'Bashar Assad’s cousin became the richest man in the country, controlling – it is widely believed – over half of the economy. And that’s only one member of the ruling clan... The clan functions as a real mafia, and has been ruling the country for several decades. This constitutes the deep root of the explosion, in combination with the fact that the Syrian regime is one of the most despotic in the region. Compared to Assad’s Syria, Mubarak’s Egypt was a beacon of democracy and political freedom!... What is specific to this regime is that Assad’s father has reshaped and reconstructed the state apparatus, especially its hard nucleus – the armed forces – in order to create a Pretorian guard for itself. The army, especially its elite forces, is tied to the regime itself in various ways, most prominently through the use of sectarianism.",
+              "links": [
+                {
+                  "text": "mafia state",
+                  "type": "internal",
+                  "page": "mafia state"
+                },
+                {
+                  "text": "Lebanese",
+                  "type": "internal",
+                  "page": "Lebanese people"
+                },
+                {
+                  "type": "internal",
+                  "page": "Gilbert Achcar"
+                }
+              ]
+            },
+            {
+              "text": "Even people who had never heard of Syria before know now that the regime is based on one minority in the country – about 10% of the population; the Alawites.'\""
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "text": "\"Bashar Assad’s cousin became the richest man in the country, controlling – it is widely believed – over half of the economy. And that’s only one member of the ruling clan... The clan functions as a real mafia, and has been ruling the country for several decades. This constitutes the deep root of the explosion, in combination with the fact that the Syrian regime is one of the most despotic in the region. Compared to Assad’s Syria, Mubarak’s Egypt was a beacon of democracy and political freedom!... What is specific to this regime is that Assad’s father has reshaped and reconstructed the state apparatus, especially its hard nucleus – the armed forces – in order to create a Pretorian guard for itself. The army, especially its elite forces, is tied to the regime itself in various ways, most prominently through the use of sectarianism. Even people who had never heard of Syria before know now that the regime is based on one minority in the country – about 10% of the population; the Alawites.\"",
+          "template": "blockquote"
+        }
+      ],
+      "references": [
+        {
+          "last": "Harkin",
+          "first": "Juliette",
+          "date": "1 May 2018",
+          "title": "'Assadism' Is Destroying Syria – Here's Where It Came From",
+          "url": "https://thewire.in/world/assadism-is-destroying-syria",
+          "archive-url": "https://web.archive.org/web/20210410213629/https://thewire.in/world/assadism-is-destroying-syria",
+          "archive-date": "10 April 2021",
+          "website": "The Wire",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Achcar",
+          "first": "Gilbert",
+          "date": "8 October 2013",
+          "title": "Syria between Revolutions and Counter-Revolutions",
+          "url": "https://www.cetri.be/Syria-between-Revolution-and?lang=fr",
+          "archive-url": "https://web.archive.org/web/20160602233849/http://www.cetri.be/Syria-between-Revolution-and",
+          "archive-date": "2 June 2016",
+          "website": "CETRI",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "International Support",
       "depth": 1
     },
     {
@@ -7368,21 +7474,16 @@
         {
           "sentences": [
             {
-              "text": "Assad's support from the right-wing has mostly been from the far-right, both before and during the Syrian civil war.",
+              "text": "Assad's support from the right-wing has mostly been from the Western far-right, both before and during the Syrian civil war.",
               "links": [
                 {
                   "text": "far-right",
                   "type": "internal",
                   "page": "Far-right politics"
-                }
-              ]
-            },
-            {
-              "text": "David Duke hosted a televised speech on Syrian national television in 2005.",
-              "links": [
+                },
                 {
                   "type": "internal",
-                  "page": "David Duke"
+                  "page": "Syrian civil war"
                 }
               ]
             },
@@ -7405,15 +7506,60 @@
               ]
             },
             {
-              "text": "In 2014, the Simon Wiesenthal Center claimed that Bashar al-Assad had sheltered Alois Brunner in Syria, and alleged that Brunner advised the Assad government on purging Syria's Jewish community.",
+              "text": "American white supremacist David Duke delivered a speech at a pro-government rally held in Damascus in 2005, which was televised by the Syrian state TV.",
+              "links": [
+                {
+                  "text": "white supremacist",
+                  "type": "internal",
+                  "page": "White Supremacist"
+                },
+                {
+                  "type": "internal",
+                  "page": "David Duke"
+                }
+              ]
+            },
+            {
+              "text": "Addressing the gathering, David Duke said: \"“It hurts my heart to tell you that part of my country is occupied by Zionists just as part of your country, the Golan Heights, is occupied by Zionists... your fight for freedom is the same as our fight for freedom”\""
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2014, the Simon Wiesenthal Center reported that Nazi war-criminal Alois Brunner, the right-hand man of Adolf Eichman and a key participant in the Final Solution, had died in Syria in 2010 under the asylum of Bashar al-Assad.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Simon Wiesenthal Center"
                 },
                 {
+                  "text": "Nazi war-criminal",
+                  "type": "internal",
+                  "page": "Nazi war criminal"
+                },
+                {
                   "type": "internal",
                   "page": "Alois Brunner"
+                },
+                {
+                  "text": "Adolf Eichman",
+                  "type": "internal",
+                  "page": "Adolf Eichmann"
+                },
+                {
+                  "type": "internal",
+                  "page": "Final Solution"
+                }
+              ]
+            },
+            {
+              "text": "The centre also claimed that under the alias \"Dr. Georg Fischer\", Brunner assisted Bashar al-Assad and his father Hafez for over 30 years; serving as an instructor on torture techniques, combating internal dissent and on purging Syria's Jewish community.",
+              "links": [
+                {
+                  "text": "Hafez",
+                  "type": "internal",
+                  "page": "Hafez al-Assad"
                 },
                 {
                   "text": "Syria's Jewish community",
@@ -7421,6 +7567,9 @@
                   "page": "History of the Jews in Syria"
                 }
               ]
+            },
+            {
+              "text": "While the Assad regime regularly reject accusations of sheltering Brunner to this day, it had long denied permission to probe his whereabouts."
             }
           ]
         },
@@ -7621,26 +7770,56 @@
           ],
           "p": "197",
           "template": "sfn"
+        },
+        {
+          "text": "“It hurts my heart to tell you that part of my country is occupied by Zionists just as part of your country, the Golan Heights, is occupied by Zionists... your fight for freedom is the same as our fight for freedom”",
+          "template": "blockquote"
         }
       ],
       "references": [
         {
-          "url": "http://www.foxnews.com/world/2014/12/01/most-wanted-nazi-likely-died-four-years-ago-in-syria-says-man-who-hunted-him",
+          "date": "1 December 2014",
           "title": "Most-wanted Nazi likely died four years ago in Syria, says man who hunted him",
           "publisher": "Fox News Channel",
-          "date": "1 December 2014",
+          "url": "http://www.foxnews.com/world/2014/12/01/most-wanted-nazi-likely-died-four-years-ago-in-syria-says-man-who-hunted-him",
           "access-date": "1 December 2014",
+          "archive-url": "https://web.archive.org/web/20141201153432/http://www.foxnews.com/world/2014/12/01/most-wanted-nazi-likely-died-four-years-ago-in-syria-says-man-who-hunted-him/",
+          "archive-date": "1 December 2014",
           "template": "citation",
           "type": "news"
         },
         {
-          "url": "https://www.nytimes.com/2014/12/02/world/middleeast/alois-brunner-nazi-syria.html",
+          "last1": "Rudoren",
+          "first1": "Jodi",
+          "date": "30 November 2014",
           "title": "A Long-Sought Fugitive Died Four Years Ago in Syria, Nazi Hunter Says",
           "work": "The New York Times",
-          "first1": "Jodi",
-          "last1": "Rudoren",
-          "date": "30 November 2014",
+          "url": "https://www.nytimes.com/2014/12/02/world/middleeast/alois-brunner-nazi-syria.html",
           "access-date": "1 December 2014",
+          "archive-url": "https://web.archive.org/web/20141203004559/https://www.nytimes.com/2014/12/02/world/middleeast/alois-brunner-nazi-syria.html",
+          "archive-date": "3 December 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Chandler",
+          "first": "Adam",
+          "date": "2 December 2014",
+          "title": "Eichmann's Best Man Lived and Died in Syria",
+          "work": "The Atlantic",
+          "url": "https://www.theatlantic.com/international/archive/2014/12/eichmanns-best-man-lived-and-died-in-syria/383296/",
+          "archive-url": "https://web.archive.org/web/20141202042628/https://www.theatlantic.com/international/archive/2014/12/eichmanns-best-man-lived-and-died-in-syria/383296/",
+          "archive-date": "2 December 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "1 December 2014",
+          "title": "Nazi war criminal Alois Brunner 'died in Syria'",
+          "work": "BBC News",
+          "url": "https://www.bbc.com/news/world-europe-30275358",
+          "archive-url": "https://web.archive.org/web/20141201152556/https://www.bbc.com/news/world-europe-30275358",
+          "archive-date": "1 December 2014",
           "template": "citation",
           "type": "news"
         },
@@ -7834,13 +8013,28 @@
           "type": "web"
         },
         {
-          "url": "http://www.middleeasteye.net/in-depth/features/europes-far-right-activists-continue-throw-their-weight-behind-syrias-assad",
+          "last1": "MacDonald",
+          "first1": "Alex",
+          "date": "2 December 2014",
           "title": "Europe's far-right activists continue to throw their weight behind Syria's Assad",
           "publisher": "Middle East Eye",
-          "first1": "Alex",
-          "last1": "MacDonald",
-          "date": "2 December 2014",
+          "url": "http://www.middleeasteye.net/in-depth/features/europes-far-right-activists-continue-throw-their-weight-behind-syrias-assad",
           "access-date": "6 December 2014",
+          "archive-url": "https://web.archive.org/web/20200801045342/https://www.middleeasteye.net/features/europes-far-right-activists-continue-throw-their-weight-behind-syrias-assad",
+          "archive-date": "1 August 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "MacDonald",
+          "first1": "Alex",
+          "date": "2 December 2014",
+          "title": "Europe's far-right activists continue to throw their weight behind Syria's Assad",
+          "publisher": "Middle East Eye",
+          "url": "http://www.middleeasteye.net/in-depth/features/europes-far-right-activists-continue-throw-their-weight-behind-syrias-assad",
+          "access-date": "6 December 2014",
+          "archive-url": "https://web.archive.org/web/20200801045342/https://www.middleeasteye.net/features/europes-far-right-activists-continue-throw-their-weight-behind-syrias-assad",
+          "archive-date": "1 August 2020",
           "template": "citation",
           "type": "news"
         },
