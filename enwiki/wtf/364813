@@ -229,17 +229,17 @@
         {
           "sentences": [
             {
-              "text": "On 17 July 2000, Assad became president, succeeding his father, who died in office on 10 June 2000.",
+              "text": "On 17 July 2000, Bashar al-Assad became president, succeeding his father Hafez, who had died on 10 June 2000.",
               "links": [
                 {
-                  "text": "died in office on 10 June 2000",
+                  "text": "on 10 June 2000",
                   "type": "internal",
                   "page": "Death and state funeral of Hafez al-Assad"
                 }
               ]
             },
             {
-              "text": "In the 2000 and 2007 elections, he received 97.29% and 97.6% support, respectively.",
+              "text": "A series of state elections have since been held regularly every seven years - in 2000, 2007, 2014 and 2021 - which he won with overwhelming majority of votes.",
               "links": [
                 {
                   "text": "2000",
@@ -247,24 +247,39 @@
                   "page": "2000 Syrian presidential election"
                 },
                 {
-                  "text": "2007 elections",
+                  "text": "2007",
                   "type": "internal",
                   "page": "2007 Syrian presidential election"
-                }
-              ]
-            },
-            {
-              "text": "On 16 July 2014, Assad was sworn in for another seven-year term after another election gave him 88.7% of the vote.",
-              "links": [
+                },
                 {
-                  "text": "On 16 July 2014",
+                  "text": "2014",
                   "type": "internal",
                   "page": "2014 Syrian presidential election"
+                },
+                {
+                  "text": "2021",
+                  "type": "internal",
+                  "page": "2021 Syrian presidential election"
                 }
               ]
             },
             {
-              "text": "The election was held only in areas controlled by the Syrian government during the country's ongoing civil war and was criticised by the United Nations (UN).",
+              "text": "The elections are unanimously regarded by independent observers as a sham process and boycotted by the opposition.",
+              "links": [
+                {
+                  "text": "sham process",
+                  "type": "internal",
+                  "page": "Sham election"
+                },
+                {
+                  "text": "opposition",
+                  "type": "internal",
+                  "page": "Syrian opposition"
+                }
+              ]
+            },
+            {
+              "text": "The last two elections - held during 2014 and 2021 - were conducted only in areas controlled by the Syrian government during the country's ongoing civil war and condemned by the United Nations (UN).",
               "links": [
                 {
                   "text": "ongoing civil war",
@@ -279,20 +294,17 @@
               ]
             },
             {
-              "text": "Assad was re-elected in 2021 with over 95% of the vote in national election.",
+              "text": "Bashar al-Assad's reign has been characterised by numerous human rights violations and severe repression.",
               "links": [
                 {
-                  "text": "re-elected in 2021",
+                  "text": "human rights violations",
                   "type": "internal",
-                  "page": "2021 Syrian presidential election"
+                  "page": "human rights violations"
                 }
               ]
             },
             {
-              "text": "Throughout his leadership, human rights groups have characterized Syria's human rights situation as poor."
-            },
-            {
-              "text": "The Assad government describes itself as secular, while various political scientists write that his regime exploits sectarian tensions in the country.",
+              "text": "While the Assad government describes itself as secular, various political scientists and observers note that his regime exploits sectarian tensions in the country.",
               "links": [
                 {
                   "text": "secular",
@@ -1090,6 +1102,30 @@
           "website": "The Daily Telegraph",
           "date": "16 July 2014",
           "access-date": "17 December 2016}}{{cbignore|undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Kossaify",
+          "first": "Ephrem",
+          "date": "22 April 2021",
+          "title": "UN reiterates it is not involved in Syrian presidential election",
+          "work": "Arab News",
+          "url": "https://www.arabnews.com/node/1846771/%7B%7B",
+          "archive-url": "https://web.archive.org/web/20210422181511/https://www.arabnews.com/node/1846771/middle-east",
+          "archive-date": "22 April 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Entous, Nissenbaum",
+          "first": "Adam, Dion",
+          "date": "25 July 2014",
+          "title": "10,000 Bodies: Inside Syrian President Bashar al-Assad's Crackdown",
+          "work": "The Wall Street Journal",
+          "url": "https://www.wsj.com/articles/10-000-bodies-inside-syrian-president-bashar-al-assads-crackdown-1406315472",
+          "archive-url": "https://web.archive.org/web/20230103162318/https://www.wsj.com/articles/10-000-bodies-inside-syrian-president-bashar-al-assads-crackdown-1406315472",
+          "archive-date": "3 January 2023",
           "template": "citation",
           "type": "news"
         },
@@ -2034,7 +2070,7 @@
               "text": "The minimum age requirement for the presidency was lowered from 40 to 34, which was Bashar's age at the time."
             },
             {
-              "text": "Assad was then confirmed president on 10 July 2000, with 97.29% support for his leadership.",
+              "text": "Assad contested as the only candidate and subsequently confirmed president on 10 July 2000, with 97.29% support for his leadership.",
               "links": [
                 {
                   "text": "confirmed president on 10 July 2000",
@@ -2089,7 +2125,7 @@
         {
           "sentences": [
             {
-              "text": "During the war on terror, Assad allied his country with the West.",
+              "text": "During the war on terror, Assad allied his country with the United States.",
               "links": [
                 {
                   "text": "war on terror",
@@ -2187,6 +2223,33 @@
             },
             {
               "text": "Opposition parties were not allowed in the country and Assad was the only candidate in the referendum."
+            },
+            {
+              "text": "Syria's opposition parties under the umbrella of Damascus Declaration denounced the elections as illegitimate and part of the regime's strategy to sustain the \"totalitarian system\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Damascus Declaration"
+                },
+                {
+                  "text": "totalitarian",
+                  "type": "internal",
+                  "page": "Totalitarianism"
+                }
+              ]
+            },
+            {
+              "text": "Elections in Syria are officially designated as the event of \"renewing the pledge of allegiance\" to the Assads and voting is enforced as a compulsory duty on every citizen.",
+              "links": [
+                {
+                  "text": "Assads",
+                  "type": "internal",
+                  "page": "Assad dynasty"
+                }
+              ]
+            },
+            {
+              "text": "Announcement of the results are followed by pro-government rallies conducted across the country extolling the regime, wherein citiznes declare their \"devotion\" to the President and celebrate \"the virtues\" of Assad dynasty."
             }
           ]
         }
@@ -2295,6 +2358,59 @@
           "type": "web"
         },
         {
+          "date": "29 May 2007",
+          "title": "Syria's Assad wins another term",
+          "work": "BBC News",
+          "url": "http://news.bbc.co.uk/2/hi/middle_east/6700021.stm",
+          "access-date": "13 March 2015",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "28 May 2007",
+          "title": "Democracy Damascus style: Assad the only choice in referendum",
+          "work": "The Guardian",
+          "url": "https://www.theguardian.com/world/2007/may/28/syria.ianblack",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Klatell",
+          "first": "James",
+          "date": "27 May 2007",
+          "title": "Syrians Vote in Presidential Referendum",
+          "work": "CBS News",
+          "url": "https://www.cbsnews.com/news/syrians-vote-in-presidential-referendum/",
+          "archive-url": "https://web.archive.org/web/20170406134454/https://www.cbsnews.com/news/syrians-vote-in-presidential-referendum/",
+          "archive-date": "26 April 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Black",
+          "first": "Ian",
+          "date": "28 May 2007",
+          "title": "Democracy Damascus style: Assad the only choice in referendum",
+          "work": "The Guardian",
+          "url": "https://www.theguardian.com/world/2007/may/28/syria.ianblack",
+          "archive-url": "https://web.archive.org/web/20170406134014/https://www.theguardian.com/world/2007/may/28/syria.ianblack",
+          "archive-date": "6 April 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Chulov",
+          "first": "Martin",
+          "date": "13 April 2014",
+          "title": "The one certainty about Syria's looming election – Assad will win",
+          "work": "The Guardian",
+          "url": "https://www.theguardian.com/world/shortcuts/2014/apr/13/certainty-syria-election-assad-will-win",
+          "archive-url": "https://web.archive.org/web/20170621100122/https://www.theguardian.com/world/shortcuts/2014/apr/13/certainty-syria-election-assad-will-win",
+          "archive-date": "21 June 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
           "title": "Outsourcing the Torture of Suspected Terrorists",
           "magazine": "The New Yorker",
           "date": "14 February 2005",
@@ -2338,6 +2454,33 @@
           "type": "inline",
           "data": {},
           "inline": {}
+        },
+        {
+          "date": "28 May 2007",
+          "title": "Syrians Vote For Assad in Uncontested Referendum",
+          "newspaper": "The Washington Post",
+          "agency": "Associated Press",
+          "location": "Damascus",
+          "url": "https://www.washingtonpost.com/wp-dyn/content/article/2007/05/27/AR2007052701117.html",
+          "access-date": "13 March 2015",
+          "archive-url": "https://web.archive.org/web/20180511075416/https://www.washingtonpost.com/wp-dyn/content/article/2007/05/27/AR2007052701117.html",
+          "archive-date": "11 May 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Yacoub Oweis",
+          "first": "Khaleb",
+          "date": "2007-05-17",
+          "title": "Syria's opposition boycotts vote on Assad",
+          "work": "Reuters",
+          "location": "Damascus",
+          "url": "https://www.reuters.com/article/us-syria-vote-opposition-idUSOWE75174320070517",
+          "access-date": "2021-10-11",
+          "archive-url": "https://web.archive.org/web/20170406134644/https://www.reuters.com/article/us-syria-vote-opposition-idUSOWE75174320070517",
+          "archive-date": "6 April 2017",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },
@@ -3435,11 +3578,7 @@
                   "page": "Paris Climate Agreement"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "On 30 August 2020, the First Hussein Arnous government was formed, which included a new Council of Ministers.",
               "links": [
@@ -3451,6 +3590,47 @@
                   "text": "Council of Ministers",
                   "type": "internal",
                   "page": "Council of Ministers (Syria)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the 2021 presidential elections held on 26 May, Assad secured his fourth 7-year tenure; by winning 95.2% of the eligible votes.",
+              "links": [
+                {
+                  "text": "2021 presidential elections",
+                  "type": "internal",
+                  "page": "2021 Syrian presidential election"
+                }
+              ]
+            },
+            {
+              "text": "The elections were boycotted by the opposition and SDF; while the refugees and internally displaced citizens were disqualified to vote; enabling only 38% of Syrians to participate in the process.",
+              "links": [
+                {
+                  "text": "opposition",
+                  "type": "internal",
+                  "page": "Syrian opposition"
+                },
+                {
+                  "text": "SDF",
+                  "type": "internal",
+                  "page": "Syrian Democratic Forces"
+                }
+              ]
+            },
+            {
+              "text": "Independent international observers as well as representatives of Western countries described the elections as a farce."
+            },
+            {
+              "text": "United Nations condemned the elections for directly violating Resolution 2254; and announced that it has \"no mandate\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United Nations"
                 }
               ]
             }
@@ -3691,6 +3871,61 @@
           "language": "en-US",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "last": "Kossaify",
+          "first": "Ephrem",
+          "date": "22 April 2021",
+          "title": "UN reiterates it is not involved in Syrian presidential election",
+          "url": "https://www.arabnews.com/node/1846771/%7B%7B",
+          "archive-url": "https://web.archive.org/web/20210425141450/https://www.arabnews.com/node/1846771/middle-east",
+          "archive-date": "25 April 2021",
+          "website": "Arab News",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Walker",
+          "first": "Nigel",
+          "date": "9 June 2021",
+          "title": "Syria: 2021 presidential election and future prospects",
+          "url": "https://researchbriefings.files.parliament.uk/documents/CBP-9250/CBP-9250.pdf",
+          "publisher": "House of Commons Library",
+          "pages": "4-15",
+          "via": "UK Parliament",
+          "template": "citation",
+          "type": "journal"
+        },
+        {
+          "date": "28 May 2021",
+          "title": "Syria’s Assad wins 4th term with 95% of vote, in election the West calls fraudulent",
+          "work": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/syrias-president-bashar-al-assad-wins-fourth-term-office-with-951-votes-live-2021-05-27/",
+          "archive-url": "https://web.archive.org/web/20221127122709/https://www.reuters.com/world/middle-east/syrias-president-bashar-al-assad-wins-fourth-term-office-with-951-votes-live-2021-05-27/",
+          "archive-date": "27 November 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Syria Events of 2021",
+          "url": "https://www.hrw.org/world-report/2022/country-chapters/syria",
+          "archive-url": "https://web.archive.org/web/20230103070540/https://www.hrw.org/world-report/2022/country-chapters/syria",
+          "archive-date": "3 January 2023",
+          "website": "Human Rights Watch",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Lister",
+          "first": "Charles",
+          "date": "10 May 2021",
+          "title": "US policy in Syria in 2021",
+          "work": "Asharq al-Awsat",
+          "url": "https://english.aawsat.com/home/article/2965846/charles-lister/us-policy-syria-2021",
+          "archive-url": "https://web.archive.org/web/20220813233750/https://english.aawsat.com/home/article/2965846/charles-lister/us-policy-syria-2021",
+          "archive-date": "13 August 2022",
+          "template": "citation",
+          "type": "news"
         },
         {
           "last": "Reuters",
@@ -4146,7 +4381,29 @@
         {
           "sentences": [
             {
-              "text": "\"During its decades of rule... the Assad family developed a strong political safety net by firmly integrating the military into the government. In 1970, Hafez al-Assad, Bashar's father, seized power after rising through the ranks of the Syrian armed forces, during which time he established a network of loyal Alawites by installing them in key posts. In fact, the military, ruling elite, and ruthless secret police are so intertwined that it is now impossible to separate the Assad government from the security establishment.... So... the government and its loyal forces have been able to deter all but the most resolute and fearless oppositional activists. In this respect, the situation in Syria is to a certain degree comparable to Saddam Hussein's strong Sunni minority rule in Iraq.\""
+              "text": "\"During its decades of rule... the Assad family developed a strong political safety net by firmly integrating the military into the government. In 1970, Hafez al-Assad, Bashar's father, seized power after rising through the ranks of the Syrian armed forces, during which time he established a network of loyal Alawites by installing them in key posts. In fact, the military, ruling elite, and ruthless secret police are so intertwined that it is now impossible to separate the Assad government from the security establishment.... So... the government and its loyal forces have been able to deter all but the most resolute and fearless oppositional activists. In this respect, the situation in Syria is to a certain degree comparable to Saddam Hussein's strong Sunni minority rule in Iraq.\"Between 2011 and 2013; the state security apparatus is believed to have tortured and killed over 10,000 civil activists, political dissidents, journalists, civil defense volunteers and those accused of treason and terror charges, as part of a campaign of deadly crackdown ordered by Assad.",
+              "links": [
+                {
+                  "text": "civil activists",
+                  "type": "internal",
+                  "page": "Civil activist"
+                },
+                {
+                  "text": "political dissidents",
+                  "type": "internal",
+                  "page": "political dissidents"
+                },
+                {
+                  "text": "journalists",
+                  "type": "internal",
+                  "page": "Independent journalists"
+                },
+                {
+                  "text": "civil defense volunteers",
+                  "type": "internal",
+                  "page": "Civil defense"
+                }
+              ]
             }
           ]
         }
@@ -4291,6 +4548,18 @@
           "type": "news"
         },
         {
+          "last": "Entous, Nissenbaum",
+          "first": "Adam, Dion",
+          "date": "25 July 2014",
+          "title": "10,000 Bodies: Inside Syrian President Bashar al-Assad's Crackdown",
+          "work": "The Wall Street Journal",
+          "url": "https://www.wsj.com/articles/10-000-bodies-inside-syrian-president-bashar-al-assads-crackdown-1406315472",
+          "archive-url": "https://web.archive.org/web/20230103162318/https://www.wsj.com/articles/10-000-bodies-inside-syrian-president-bashar-al-assads-crackdown-1406315472",
+          "archive-date": "3 January 2023",
+          "template": "citation",
+          "type": "news"
+        },
+        {
           "url": "http://www.foreignaffairs.com/articles/67561/michael-broening/the-sturdy-house-that-assad-built",
           "title": "The Sturdy House That Assad Built",
           "date": "7 March 2011",
@@ -4365,6 +4634,15 @@
                   "text": "Charles Taylor",
                   "type": "internal",
                   "page": "Charles Taylor (Liberian politician)"
+                }
+              ]
+            },
+            {
+              "text": "Charles Lister, Director of the Countering Terror and Extremism Program at Middle East Institute, describes Bashar al-Assad as \"21st century’s biggest war criminal\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Middle East Institute"
                 }
               ]
             }
@@ -4703,6 +4981,18 @@
           "agency": "Associated Press",
           "date": "11 March 2015",
           "access-date": "11 March 2015",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Lister",
+          "first": "Charles",
+          "date": "10 May 2021",
+          "title": "US policy in Syria in 2021",
+          "work": "Asharq al-Awsat",
+          "url": "https://english.aawsat.com/home/article/2965846/charles-lister/us-policy-syria-2021",
+          "archive-url": "https://web.archive.org/web/20220813233750/https://english.aawsat.com/home/article/2965846/charles-lister/us-policy-syria-2021",
+          "archive-date": "13 August 2022",
           "template": "citation",
           "type": "news"
         },
@@ -7073,7 +7363,18 @@
               ]
             },
             {
-              "text": "Syria's Alawite community is considered in the foreign media to be Bashar al-Assad's core support base and is said to dominate the government's security apparatus, yet in April 2016, BBC News reported that Alawite leaders released a document seeking to distance themselves from Assad."
+              "text": "Although Syria's Alawite community forms Bashar al-Assad's core support base and dominate the government's security apparatus, in April 2016, BBC News reported that Alawite leaders released a document seeking to distance themselves from Assad.",
+              "links": [
+                {
+                  "text": "Alawite",
+                  "type": "internal",
+                  "page": "Alawites"
+                },
+                {
+                  "type": "internal",
+                  "page": "BBC News"
+                }
+              ]
             }
           ]
         },
@@ -7097,7 +7398,7 @@
         {
           "sentences": [
             {
-              "text": "In June 2014, Assad won a disputed presidential election held in government-controlled areas (and ignored in opposition-held areas and Kurdish areas governed by the Democratic Union Party ) with 88.7% of the vote.",
+              "text": "In June 2014, Assad won a disputed presidential election held in government-controlled areas (and boycotted in opposition-held areas and Kurdish areas governed by the Democratic Union Party ) with 88.7% of the vote.",
               "links": [
                 {
                   "text": "presidential election",
@@ -7115,11 +7416,99 @@
               "text": "Turnout was estimated to be 73.42% of eligible voters, including those in rebel-controlled areas."
             },
             {
-              "text": "Individuals interviewed in a \"Sunni-dominated, middle-class neighborhood of central Damascus\" s aid there was significant support for Assad among the Sunnis in Syria."
+              "text": "The regime's electoral commission also disqualified millions of Syrian citizens displaced outside the country from voting."
             },
             {
-              "text": "Attempts to hold an election under the circumstances of an ongoing civil war were criticised by UN Secretary-General Ban Ki-moon.",
+              "text": "Independent observers and academic scholarship unanimously describe the event as a sham election organised to legitimise Assad's rule.",
               "links": [
+                {
+                  "text": "sham election",
+                  "type": "internal",
+                  "page": "sham election"
+                }
+              ]
+            },
+            {
+              "text": "In his inaugration ceremony, Bashar denounced the opposition as \"terrorists\" and \"traitors\"; while attacking the West for backing the \"fake Arab spring\".",
+              "links": [
+                {
+                  "text": "Arab spring",
+                  "type": "internal",
+                  "page": "Arab Spring"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Times of Israel reported that although various individuals interviewed in a \"Sunni-dominated, middle-class neighborhood of central Damascus\" exhibited fealty for Assad; it was not possible to discern the actual support for the regime due to the ubiquitous influence of the secret police in the society.",
+              "links": [
+                {
+                  "text": "Times of Israel",
+                  "type": "internal",
+                  "page": "The Times of Israel"
+                },
+                {
+                  "text": "secret police",
+                  "type": "internal",
+                  "page": "Syrian intelligence"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Times of Israel"
+                ]
+              }
+            },
+            {
+              "text": "In the London conference of countries of the Friends of Syria group, British Foreign Secretary William Hague characterised the elections as a \"parody of democracy\" and denounced the regime's \"utter disregard for human life\" for perpetrating war-crimes and state-terror on the Syrian population.",
+              "links": [
+                {
+                  "text": "Friends of Syria group",
+                  "type": "internal",
+                  "page": "Friends of Syria Group"
+                },
+                {
+                  "text": "British Foreign Secretary",
+                  "type": "internal",
+                  "page": "Foreign Secretary"
+                },
+                {
+                  "type": "internal",
+                  "page": "William Hague"
+                },
+                {
+                  "text": "war-crimes",
+                  "type": "internal",
+                  "page": "War crime"
+                },
+                {
+                  "text": "state-terror",
+                  "type": "internal",
+                  "page": "State terrorism"
+                },
+                {
+                  "text": "Syrian population",
+                  "type": "internal",
+                  "page": "Syrians"
+                }
+              ]
+            },
+            {
+              "text": "Assad's policy of holding elections under the circumstances of an ongoing civil war were also rebuked by the UN Secretary-General Ban Ki-moon.",
+              "links": [
+                {
+                  "text": "ongoing civil war",
+                  "type": "internal",
+                  "page": "Syrian civil war"
+                },
+                {
+                  "text": "UN Secretary-General",
+                  "type": "internal",
+                  "page": "Secretary-General of the United Nations"
+                },
                 {
                   "type": "internal",
                   "page": "Ban Ki-moon"
@@ -7307,10 +7696,96 @@
           "type": "news"
         },
         {
+          "last": "Evans",
+          "first": "Dominic",
+          "date": "28 April 2014",
+          "title": "Assad seeks re-election as Syrian civil war rages",
+          "work": "Reuters",
+          "url": "https://www.reuters.com/article/uk-syria-crisis-assad-idUKKBN0DE0UY20140428",
+          "access-date": "15 May 2020",
+          "archive-url": "https://web.archive.org/web/20230104163541/https://www.reuters.com/article/uk-syria-crisis-assad-idUKKBN0DE0UY20140428",
+          "archive-date": "4 January 2023",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Cheeseman",
+          "first": "Nicholas",
+          "title": "How to Rig an Election",
+          "date": "2019",
+          "publisher": "Yale University Press",
+          "isbn": "978-0-300-24665-0",
+          "pages": "140–141",
+          "oclc": "1089560229",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "last1": "Norris",
+          "first1": "Pippa",
+          "last2": "Martinez i Coma",
+          "first2": "Ferran",
+          "last3": "Grömping",
+          "first3": "Max",
+          "date": "2015",
+          "title": "The Year in Elections, 2014",
+          "url": "https://sites.google.com/site/electoralintegrityproject4/projects/expert-survey-2/the-year-in-elections-2015",
+          "journal": "Election Integrity Project",
+          "language": "en",
+          "quote": "The Syrian election ranked as worst among all the contests held during 2014.",
+          "template": "citation",
+          "type": "journal"
+        },
+        {
+          "last": "Jones",
+          "first": "Mark P.",
+          "date": "2018",
+          "editor1-last": "Herron",
+          "editor1-first": "Erik S",
+          "editor2-last": "Pekkanen",
+          "editor2-first": "Robert J",
+          "editor3-last": "Shugart",
+          "editor3-first": "Matthew S",
+          "title": "Presidential and Legislative Elections",
+          "url": "https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190258658.001.0001/oxfordhb-9780190258658-e-23",
+          "access-date": "21 May 2020",
+          "website": "The Oxford Handbook of Electoral Systems",
+          "language": "en",
+          "doi": "10.1093/oxfordhb/9780190258658.001.0001",
+          "isbn": "9780190258658",
+          "quote": "\"unanimous agreement among serious scholars that... al-Assad's 2014 election... occurred within an authoritarian context.\"",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Makdisi",
+          "first": "Marwan",
+          "date": "16 July 2014",
+          "title": "Confident Assad launches new term in stronger position",
+          "work": "Reuters",
+          "url": "https://www.reuters.com/article/us-syria-crisis-assad-idUSKBN0FL0NN20140717",
+          "access-date": "15 May 2020",
+          "archive-url": "https://web.archive.org/web/20170903040841/https://www.reuters.com/article/us-syria-crisis-assad-idUSKBN0FL0NN20140717",
+          "archive-date": "3 September 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
           "template": "citation",
           "type": "inline",
           "data": {},
           "inline": {}
+        },
+        {
+          "date": "15 May 2014",
+          "title": "UK's William Hague attacks Assad's Syria elections plan",
+          "work": "BBC News",
+          "url": "https://www.bbc.co.uk/news/world-middle-east-27419552",
+          "access-date": "13 March 2015",
+          "archive-url": "https://web.archive.org/web/20221026161021/https://www.bbc.co.uk/news/world-middle-east-27419552",
+          "archive-date": "26 October 2022",
+          "template": "citation",
+          "type": "news"
         },
         {
           "date": "10 October 2017",
