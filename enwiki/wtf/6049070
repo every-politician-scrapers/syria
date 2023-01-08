@@ -1281,7 +1281,7 @@
       ]
     },
     {
-      "title": "\"A Rose in the Desert\" and subsequent retraction",
+      "title": "\"A Rose in the Desert\" Controversy and retraction",
       "depth": 1,
       "paragraphs": [
         {
@@ -1329,7 +1329,11 @@
                   "Vogue"
                 ]
               }
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "In July 2012, Buck wrote another article for The Daily Beast giving an extremely critical account of Assad.",
               "links": [
@@ -1343,8 +1347,49 @@
                   "The Daily Beast"
                 ]
               }
+            },
+            {
+              "text": "In another article in The Telegraph published in August 2012, Juliet Buck harshly critcized Asma al-Assad for being compliant in the regime's war-crimes and described her as the \"First Lady of Hell\".",
+              "links": [
+                {
+                  "text": "The Telegraph",
+                  "type": "internal",
+                  "page": "The Daily Telegraph"
+                },
+                {
+                  "text": "war-crimes",
+                  "type": "internal",
+                  "page": "War crime"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "The Telegraph"
+                ]
+              }
+            },
+            {
+              "text": "Stating that the title \"A Rose in the Desert\" was not her choice, Buck commented on her Vogue article: \"'I didn’t want to write the piece. But I always finished what I started. I handed it in on 14 January, the day President Ben Ali fled Tunisia. 'The Arab Spring is spreading,’ I told American Vogue on 21 January. 'You might want to hold the piece.’ They didn’t think the Arab Spring was going anywhere, and the piece was needed for the March 'Power Issue’... On 25 February, as Libyan protesters demanded an end to Gaddafi, my piece on Asma al-Assad went online at vogue.com. They had excruciatingly titled it 'A Rose in the Desert’.'\"",
+              "links": [
+                {
+                  "text": "Vogue",
+                  "type": "internal",
+                  "page": "Vogue (magazine)"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Vogue"
+                ]
+              }
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "text": "\"I didn’t want to write the piece. But I always finished what I started. I handed it in on 14 January, the day President Ben Ali fled Tunisia. 'The Arab Spring is spreading,’ I told American Vogue on 21 January. 'You might want to hold the piece.’ They didn’t think the Arab Spring was going anywhere, and the piece was needed for the March 'Power Issue’... On 25 February, as Libyan protesters demanded an end to Gaddafi, my piece on Asma al-Assad went online at vogue.com. They had excruciatingly titled it 'A Rose in the Desert’.\"",
+          "template": "blockquote"
         }
       ],
       "references": [
@@ -1369,6 +1414,42 @@
           "first2": "Amy",
           "website": "The New York Times",
           "date": "June 10, 2012",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Juliet Buck",
+          "first": "Joan",
+          "date": "12 August 2012",
+          "title": "At home with the Assads: an eerie memoir of Syria's first family before the slaughter began",
+          "work": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/news/worldnews/middleeast/syria/9458674/At-home-with-the-Assads-an-eerie-memoir-of-Syrias-first-family-before-the-slaughter-began.html",
+          "archive-url": "https://web.archive.org/web/20120813050751/https://www.telegraph.co.uk/news/worldnews/middleeast/syria/9458674/At-home-with-the-Assads-an-eerie-memoir-of-Syrias-first-family-before-the-slaughter-began.html",
+          "archive-date": "13 August 2012",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Adley",
+          "first": "Esther",
+          "date": "22 October 2016",
+          "title": "Asma al-Assad: from Syria's 'desert rose' to 'first lady of hell'",
+          "work": "The Guardian",
+          "url": "https://www.theguardian.com/world/2016/oct/22/in-syria-we-believe-in-honouring-our-word-asma-al-assad-speaks-about-syrian-conflict",
+          "archive-url": "https://web.archive.org/web/20221116194458/https://www.theguardian.com/world/2016/oct/22/in-syria-we-believe-in-honouring-our-word-asma-al-assad-speaks-about-syrian-conflict",
+          "archive-date": "16 November 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Juliet Buck",
+          "first": "Joan",
+          "date": "12 August 2012",
+          "title": "At home with the Assads: an eerie memoir of Syria's first family before the slaughter began",
+          "work": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/news/worldnews/middleeast/syria/9458674/At-home-with-the-Assads-an-eerie-memoir-of-Syrias-first-family-before-the-slaughter-began.html",
+          "archive-url": "https://web.archive.org/web/20120813050751/https://www.telegraph.co.uk/news/worldnews/middleeast/syria/9458674/At-home-with-the-Assads-an-eerie-memoir-of-Syrias-first-family-before-the-slaughter-began.html",
+          "archive-date": "13 August 2012",
           "template": "citation",
           "type": "news"
         },

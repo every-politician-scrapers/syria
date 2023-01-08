@@ -4860,7 +4860,45 @@
         {
           "sentences": [
             {
-              "text": "In an investigative report about the Tadamon Massacre, Professors Uğur Ümit Üngör and Annsar Shahhoud, found witnesses who attested that Assad gave orders for the Syrian Military Intelligence to direct the Shabiha to kill civilians, in what is the first known association between the regime and the militia.",
+              "text": "Investigation conducted by the GPPi research institute documented 336 confirmed attacks involving chemical weapons in Syria between 23 December 2012 and 18 January 2019.",
+              "links": [
+                {
+                  "text": "GPPi",
+                  "type": "internal",
+                  "page": "Global Public Policy Institute (GPPi)"
+                }
+              ]
+            },
+            {
+              "text": "The study attributed 98% of the total verified chemical attacks to the Assad's regime."
+            },
+            {
+              "text": "Almost 90% of the attacks had occurred after Ghouta chemical attack in August 2013.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ghouta chemical attack"
+                }
+              ]
+            },
+            {
+              "text": "In April 2021, Syria was suspended from OPCW through the public vote of member states, for not co-operating with the body's Investigation Identification Team (IIT) and violating the Chemical Weapons Convention.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chemical Weapons Convention"
+                }
+              ]
+            },
+            {
+              "text": "Findings of another investigation report published the OPCW-IIT in July 2021 concluded that the Syrian regime had engaged in confirmed chemical attacks atleast 17 times, out of the reported 77 chemical weapon attacks attributed to Assadist forces."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In an investigative report about the Tadamon Massacre, Professors Uğur Ümit Üngör and Annsar Shahhoud, found witnesses who attested that Assad gave orders for the Syrian Military Intelligence to direct the Shabiha to kill civilians.",
               "links": [
                 {
                   "type": "internal",
@@ -5159,6 +5197,83 @@
           "archive-url": "https://web.archive.org/web/20180612163014/https://www.washingtonpost.com/world/germany-seeks-arrest-of-leading-syrian-general-on-war-crimes-charges/2018/06/08/2fa025d0-6b21-11e8-a335-c4503d041eaf_story.html",
           "archive-date": "12 June 2018",
           "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Schneider, Lutkefend",
+          "first": "Tobias, Theresa",
+          "date": "February 2019",
+          "title": "Nowhere to Hide: The Logic of Chemical Weapons Use in Syria",
+          "url": "https://www.gppi.net/media/GPPi_Schneider_Luetkefend_2019_Nowhere_to_Hide_Web.pdf",
+          "pages": "1-47",
+          "archive-url": "https://web.archive.org/web/20221216060712/https://www.gppi.net/media/GPPi_Schneider_Luetkefend_2019_Nowhere_to_Hide_Web.pdf",
+          "archive-date": "16 December 2022",
+          "via": "GPPi",
+          "template": "citation",
+          "type": "journal"
+        },
+        {
+          "last": "Lombardo",
+          "first": "Clare",
+          "date": "17 February 2019",
+          "title": "More Than 300 Chemical Attacks Launched During Syrian Civil War, Study Says",
+          "work": "NPR",
+          "url": "https://www.npr.org/2019/02/17/695545252/more-than-300-chemical-attacks-launched-during-syrian-civil-war-study-says",
+          "archive-url": "https://web.archive.org/web/20230107103943/https://www.npr.org/2019/02/17/695545252/more-than-300-chemical-attacks-launched-during-syrian-civil-war-study-says",
+          "archive-date": "7 January 2023",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Corder",
+          "first": "Mike",
+          "date": "21 April 2021",
+          "title": "States suspend Syria’s OPCW rights over chemical attacks",
+          "work": "AP News",
+          "url": "https://apnews.com/article/netherlands-chemical-weapons-damascus-the-hague-syria-ab2da467f4a4d9336010a141e5178276https://apnews.com/article/netherlands-chemical-weapons-damascus-the-hague-syria-ab2da467f4a4d9336010a141e5178276",
+          "archive-url": "https://web.archive.org/web/20220524194220/https://apnews.com/article/netherlands-chemical-weapons-damascus-the-hague-syria-ab2da467f4a4d9336010a141e5178276",
+          "archive-date": "24 May 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "22 April 2021",
+          "title": "Conference of the States Parties adopts Decision to suspend certain rights and privileges of the Syrian Arab Republic under the CWC",
+          "url": "https://www.opcw.org/media-centre/news/2021/04/conference-states-parties-adopts-decision-suspend-certain-rights-and",
+          "archive-url": "https://web.archive.org/web/20220303125905/https://www.opcw.org/media-centre/news/2021/04/conference-states-parties-adopts-decision-suspend-certain-rights-and",
+          "archive-date": "3 March 2022",
+          "website": "OPCW",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "22 April 2021",
+          "title": "Decision addressing the Possession and Use of Chemical Weapons by the Syrian Arab Republic",
+          "url": "https://www.opcw.org/sites/default/files/documents/2021/04/c25dec09%28e%29.pdf",
+          "archive-url": "https://web.archive.org/web/20220319223356/https://www.opcw.org/sites/default/files/documents/2021/04/c25dec09(e).pdf",
+          "archive-date": "19 March 2022",
+          "via": "OPCW",
+          "template": "citation",
+          "type": "journal"
+        },
+        {
+          "date": "July 2021",
+          "title": "OPCW Confirms Chemical Weapons Use in Syria",
+          "url": "https://www.armscontrol.org/act/2021-07/news-briefs/opcw-confirms-chemical-weapons-use-syria",
+          "archive-url": "https://web.archive.org/web/20220401005907/https://www.armscontrol.org/act/2021-07/news-briefs/opcw-confirms-chemical-weapons-use-syria",
+          "archive-date": "1 April 2022",
+          "website": "Arms Control Association",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "4 June 2021",
+          "title": "Syria has likely used chemical weapons 17 times: International chemical weapons watchdog",
+          "work": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/syria-has-likely-used-chemical-weapons-17-times-international-chemical-weapons-watchdog/article34724203.ece",
+          "archive-url": "https://web.archive.org/web/20210606111350/https://www.thehindu.com/news/international/syria-has-likely-used-chemical-weapons-17-times-international-chemical-weapons-watchdog/article34724203.ece",
+          "archive-date": "6 June 2021",
           "template": "citation",
           "type": "news"
         },
