@@ -62,10 +62,12 @@
         },
         {
           "list": [
+            "Syrian Prime Minister Hussein Arnous",
+            "the Syrian government cabinets led by Hussein Arnous, see",
             "Hussein Arnous government (disambiguation)",
             "Hussein Arnous government"
           ],
-          "template": "further"
+          "template": "about"
         },
         {
           "date": "January 2022",
@@ -89,7 +91,7 @@
             ]
           },
           "name": {
-            "text": "Hussein Arnous\nحسين عرنوس"
+            "text": "Hussein Arnous"
           },
           "image": {
             "text": "Hussein Arnous.jpg"
@@ -242,6 +244,12 @@
                 "page": "Bachelor of Science"
               }
             ]
+          },
+          "native_name": {
+            "text": "حسين عرنوس"
+          },
+          "native_name_lang": {
+            "text": "ar"
           }
         }
       ],
