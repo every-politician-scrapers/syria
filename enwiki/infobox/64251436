@@ -1,6 +1,6 @@
 {
   "honorific-prefix": "HE",
-  "name": "Hussein Arnous\nحسين عرنوس",
+  "name": "Hussein Arnous",
   "deputy": "Ali Abdullah Ayyoub",
   "predecessor": "Imad Khamis",
   "order": "68th",
@@ -19,5 +19,7 @@
   "termend2": "26 November 2018",
   "successor2": "Suhail Mohammad Abdullatif",
   "predecessor2": "Yasser Sebaei",
-  "alma_mater": "University of Aleppo (BS)"
+  "alma_mater": "University of Aleppo (BS)",
+  "native_name": "حسين عرنوس",
+  "native_name_lang": "ar"
 }
